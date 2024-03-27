@@ -1,0 +1,929 @@
+SystemSize,SystemSizeID,SystemType,SystemTypeID,SolarPanel,SolarPanelID,Inverter,InverterID,Battery ,BatteryID,BatteryCost,NoOfBatteries ,BatteryTotalCost,InvetrerCost,NoOfInveters ,PanelCost,NoOfPanels,TotalInveterCost,TotalPanelCost,TotalSystemCost
+1kW,1,On Grid,1,JA Solar China,1,Goodwee China,1,No battery ,1,0,0,0,74000,1,42000,2,74000,84000,158000
+2kW,2,On Grid,1,JA Solar China,1,Goodwee China,1,No battery ,1,0,0,0,110000,1,42000,4,110000,168000,278000
+3.5kW,3,On Grid,1,JA Solar China,1,Goodwee China,1,No battery ,1,0,0,0,210000,1,42000,7,210000,294000,504000
+4kW,4,On Grid,1,JA Solar China,1,Goodwee China,1,No battery ,1,0,0,0,300000,1,42000,8,300000,336000,636000
+5kW,5,On Grid,1,JA Solar China,1,Goodwee China,1,No battery ,1,0,0,0,410000,1,42000,10,410000,420000,830000
+7.5kW,6,On Grid,1,JA Solar China,1,Goodwee China,1,No battery ,1,0,0,0,520000,1,42000,17,520000,714000,1234000
+8kW,7,On Grid,1,JA Solar China,1,Goodwee China,1,No battery ,1,0,0,0,560000,1,42000,18,560000,756000,1316000
+10kW,8,On Grid,1,JA Solar China,1,Goodwee China,1,No battery ,1,0,0,0,620000,1,42000,20,620000,840000,1460000
+15kW,9,On Grid,1,JA Solar China,1,Goodwee China,1,No battery ,1,0,0,0,520000,2,42000,30,1040000,1260000,2300000
+20kW,10,On Grid,1,JA Solar China,1,Goodwee China,1,No battery ,1,0,0,0,620000,2,42000,40,1240000,1680000,2920000
+30kW,11,On Grid,1,JA Solar China,1,Goodwee China,1,No battery ,1,0,0,0,620000,3,42000,60,1860000,2520000,4380000
+40kW,12,On Grid,1,JA Solar China,1,Goodwee China,1,No battery ,1,0,0,0,620000,4,42000,80,2480000,3360000,5840000
+50kW,13,On Grid,1,JA Solar China,1,Goodwee China,1,No battery ,1,0,0,0,620000,5,42000,100,3100000,4200000,7300000
+60kW,14,On Grid,1,JA Solar China,1,Goodwee China,1,No battery ,1,0,0,0,620000,6,42000,120,3720000,5040000,8760000
+1kW,1,On Grid,1,JA Solar China,1,SMA Germany ,2,No battery ,1,0,0,0,94000,1,42000,2,94000,84000,178000
+2kW,2,On Grid,1,JA Solar China,1,SMA Germany ,2,No battery ,1,0,0,0,140000,1,42000,4,140000,168000,308000
+3.5kW,3,On Grid,1,JA Solar China,1,SMA Germany ,2,No battery ,1,0,0,0,260000,1,42000,7,260000,294000,554000
+4kW,4,On Grid,1,JA Solar China,1,SMA Germany ,2,No battery ,1,0,0,0,370000,1,42000,8,370000,336000,706000
+5kW,5,On Grid,1,JA Solar China,1,SMA Germany ,2,No battery ,1,0,0,0,490000,1,42000,10,490000,420000,910000
+7.5kW,6,On Grid,1,JA Solar China,1,SMA Germany ,2,No battery ,1,0,0,0,580000,1,42000,17,580000,714000,1294000
+8kW,7,On Grid,1,JA Solar China,1,SMA Germany ,2,No battery ,1,0,0,0,650000,1,42000,18,650000,756000,1406000
+10kW,8,On Grid,1,JA Solar China,1,SMA Germany ,2,No battery ,1,0,0,0,780000,1,42000,20,780000,840000,1620000
+15kW,9,On Grid,1,JA Solar China,1,SMA Germany ,2,No battery ,1,0,0,0,580000,2,42000,30,1160000,1260000,2420000
+20kW,10,On Grid,1,JA Solar China,1,SMA Germany ,2,No battery ,1,0,0,0,780000,2,42000,40,1560000,1680000,3240000
+30kW,11,On Grid,1,JA Solar China,1,SMA Germany ,2,No battery ,1,0,0,0,780000,3,42000,60,2340000,2520000,4860000
+40kW,12,On Grid,1,JA Solar China,1,SMA Germany ,2,No battery ,1,0,0,0,780000,4,42000,80,3120000,3360000,6480000
+50kW,13,On Grid,1,JA Solar China,1,SMA Germany ,2,No battery ,1,0,0,0,780000,5,42000,100,3900000,4200000,8100000
+60kW,14,On Grid,1,JA Solar China,1,SMA Germany ,2,No battery ,1,0,0,0,780000,6,42000,120,4680000,5040000,9720000
+1kW,1,On Grid,1,JA Solar China,1,CanadainSolar Canada,3,No battery ,1,0,0,0,91000,1,42000,2,91000,84000,175000
+2kW,2,On Grid,1,JA Solar China,1,CanadainSolar Canada,3,No battery ,1,0,0,0,130000,1,42000,4,130000,168000,298000
+3.5kW,3,On Grid,1,JA Solar China,1,CanadainSolar Canada,3,No battery ,1,0,0,0,220000,1,42000,7,220000,294000,514000
+4kW,4,On Grid,1,JA Solar China,1,CanadainSolar Canada,3,No battery ,1,0,0,0,310000,1,42000,8,310000,336000,646000
+5kW,5,On Grid,1,JA Solar China,1,CanadainSolar Canada,3,No battery ,1,0,0,0,410000,1,42000,10,410000,420000,830000
+7.5kW,6,On Grid,1,JA Solar China,1,CanadainSolar Canada,3,No battery ,1,0,0,0,540000,1,42000,17,540000,714000,1254000
+8kW,7,On Grid,1,JA Solar China,1,CanadainSolar Canada,3,No battery ,1,0,0,0,640000,1,42000,18,640000,756000,1396000
+10kW,8,On Grid,1,JA Solar China,1,CanadainSolar Canada,3,No battery ,1,0,0,0,760000,1,42000,20,760000,840000,1600000
+15kW,9,On Grid,1,JA Solar China,1,CanadainSolar Canada,3,No battery ,1,0,0,0,540000,2,42000,30,1080000,1260000,2340000
+20kW,10,On Grid,1,JA Solar China,1,CanadainSolar Canada,3,No battery ,1,0,0,0,760000,2,42000,40,1520000,1680000,3200000
+30kW,11,On Grid,1,JA Solar China,1,CanadainSolar Canada,3,No battery ,1,0,0,0,760000,3,42000,60,2280000,2520000,4800000
+40kW,12,On Grid,1,JA Solar China,1,CanadainSolar Canada,3,No battery ,1,0,0,0,760000,4,42000,80,3040000,3360000,6400000
+50kW,13,On Grid,1,JA Solar China,1,CanadainSolar Canada,3,No battery ,1,0,0,0,760000,5,42000,100,3800000,4200000,8000000
+60kW,14,On Grid,1,JA Solar China,1,CanadainSolar Canada,3,No battery ,1,0,0,0,760000,6,42000,120,4560000,5040000,9600000
+1kW,1,On Grid,1,JA Solar China,1,Growatt China,4,No battery ,1,0,0,0,73000,1,42000,2,73000,84000,157000
+2kW,2,On Grid,1,JA Solar China,1,Growatt China,4,No battery ,1,0,0,0,105000,1,42000,4,105000,168000,273000
+3.5kW,3,On Grid,1,JA Solar China,1,Growatt China,4,No battery ,1,0,0,0,216000,1,42000,7,216000,294000,510000
+4kW,4,On Grid,1,JA Solar China,1,Growatt China,4,No battery ,1,0,0,0,340000,1,42000,8,340000,336000,676000
+5kW,5,On Grid,1,JA Solar China,1,Growatt China,4,No battery ,1,0,0,0,420000,1,42000,10,420000,420000,840000
+7.5kW,6,On Grid,1,JA Solar China,1,Growatt China,4,No battery ,1,0,0,0,540000,1,42000,17,540000,714000,1254000
+8kW,7,On Grid,1,JA Solar China,1,Growatt China,4,No battery ,1,0,0,0,580000,1,42000,18,580000,756000,1336000
+10kW,8,On Grid,1,JA Solar China,1,Growatt China,4,No battery ,1,0,0,0,630000,1,42000,20,630000,840000,1470000
+15kW,9,On Grid,1,JA Solar China,1,Growatt China,4,No battery ,1,0,0,0,580000,2,42000,30,1160000,1260000,2420000
+20kW,10,On Grid,1,JA Solar China,1,Growatt China,4,No battery ,1,0,0,0,630000,2,42000,40,1260000,1680000,2940000
+30kW,11,On Grid,1,JA Solar China,1,Growatt China,4,No battery ,1,0,0,0,630000,3,42000,60,1890000,2520000,4410000
+40kW,12,On Grid,1,JA Solar China,1,Growatt China,4,No battery ,1,0,0,0,630000,4,42000,80,2520000,3360000,5880000
+50kW,13,On Grid,1,JA Solar China,1,Growatt China,4,No battery ,1,0,0,0,630000,5,42000,100,3150000,4200000,7350000
+60kW,14,On Grid,1,JA Solar China,1,Growatt China,4,No battery ,1,0,0,0,630000,6,42000,120,3780000,5040000,8820000
+1kW,1,On Grid,1,Jinko Solar China,2,Goodwee China,1,No battery ,1,0,0,0,74000,1,46000,2,74000,92000,166000
+2kW,2,On Grid,1,Jinko Solar China,2,Goodwee China,1,No battery ,1,0,0,0,110000,1,46000,4,110000,184000,294000
+3.5kW,3,On Grid,1,Jinko Solar China,2,Goodwee China,1,No battery ,1,0,0,0,210000,1,46000,7,210000,322000,532000
+4kW,4,On Grid,1,Jinko Solar China,2,Goodwee China,1,No battery ,1,0,0,0,300000,1,46000,8,300000,368000,668000
+5kW,5,On Grid,1,Jinko Solar China,2,Goodwee China,1,No battery ,1,0,0,0,410000,1,46000,10,410000,460000,870000
+7.5kW,6,On Grid,1,Jinko Solar China,2,Goodwee China,1,No battery ,1,0,0,0,520000,1,46000,17,520000,782000,1302000
+8kW,7,On Grid,1,Jinko Solar China,2,Goodwee China,1,No battery ,1,0,0,0,560000,1,46000,18,560000,828000,1388000
+10kW,8,On Grid,1,Jinko Solar China,2,Goodwee China,1,No battery ,1,0,0,0,620000,1,46000,20,620000,920000,1540000
+15kW,9,On Grid,1,Jinko Solar China,2,Goodwee China,1,No battery ,1,0,0,0,520000,2,46000,30,1040000,1380000,2420000
+20kW,10,On Grid,1,Jinko Solar China,2,Goodwee China,1,No battery ,1,0,0,0,620000,2,46000,40,1240000,1840000,3080000
+30kW,11,On Grid,1,Jinko Solar China,2,Goodwee China,1,No battery ,1,0,0,0,620000,3,46000,60,1860000,2760000,4620000
+40kW,12,On Grid,1,Jinko Solar China,2,Goodwee China,1,No battery ,1,0,0,0,620000,4,46000,80,2480000,3680000,6160000
+50kW,13,On Grid,1,Jinko Solar China,2,Goodwee China,1,No battery ,1,0,0,0,620000,5,46000,100,3100000,4600000,7700000
+60kW,14,On Grid,1,Jinko Solar China,2,Goodwee China,1,No battery ,1,0,0,0,620000,6,46000,120,3720000,5520000,9240000
+1kW,1,On Grid,1,Jinko Solar China,2,SMA Germany ,2,No battery ,1,0,0,0,94000,1,46000,2,94000,92000,186000
+2kW,2,On Grid,1,Jinko Solar China,2,SMA Germany ,2,No battery ,1,0,0,0,140000,1,46000,4,140000,184000,324000
+3.5kW,3,On Grid,1,Jinko Solar China,2,SMA Germany ,2,No battery ,1,0,0,0,260000,1,46000,7,260000,322000,582000
+4kW,4,On Grid,1,Jinko Solar China,2,SMA Germany ,2,No battery ,1,0,0,0,370000,1,46000,8,370000,368000,738000
+5kW,5,On Grid,1,Jinko Solar China,2,SMA Germany ,2,No battery ,1,0,0,0,490000,1,46000,10,490000,460000,950000
+7.5kW,6,On Grid,1,Jinko Solar China,2,SMA Germany ,2,No battery ,1,0,0,0,580000,1,46000,17,580000,782000,1362000
+8kW,7,On Grid,1,Jinko Solar China,2,SMA Germany ,2,No battery ,1,0,0,0,650000,1,46000,18,650000,828000,1478000
+10kW,8,On Grid,1,Jinko Solar China,2,SMA Germany ,2,No battery ,1,0,0,0,780000,1,46000,20,780000,920000,1700000
+15kW,9,On Grid,1,Jinko Solar China,2,SMA Germany ,2,No battery ,1,0,0,0,580000,2,46000,30,1160000,1380000,2540000
+20kW,10,On Grid,1,Jinko Solar China,2,SMA Germany ,2,No battery ,1,0,0,0,780000,2,46000,40,1560000,1840000,3400000
+30kW,11,On Grid,1,Jinko Solar China,2,SMA Germany ,2,No battery ,1,0,0,0,780000,3,46000,60,2340000,2760000,5100000
+40kW,12,On Grid,1,Jinko Solar China,2,SMA Germany ,2,No battery ,1,0,0,0,780000,4,46000,80,3120000,3680000,6800000
+50kW,13,On Grid,1,Jinko Solar China,2,SMA Germany ,2,No battery ,1,0,0,0,780000,5,46000,100,3900000,4600000,8500000
+60kW,14,On Grid,1,Jinko Solar China,2,SMA Germany ,2,No battery ,1,0,0,0,780000,6,46000,120,4680000,5520000,10200000
+1kW,1,On Grid,1,Jinko Solar China,2,CanadainSolar Canada,3,No battery ,1,0,0,0,91000,1,46000,2,91000,92000,183000
+2kW,2,On Grid,1,Jinko Solar China,2,CanadainSolar Canada,3,No battery ,1,0,0,0,130000,1,46000,4,130000,184000,314000
+3.5kW,3,On Grid,1,Jinko Solar China,2,CanadainSolar Canada,3,No battery ,1,0,0,0,220000,1,46000,7,220000,322000,542000
+4kW,4,On Grid,1,Jinko Solar China,2,CanadainSolar Canada,3,No battery ,1,0,0,0,310000,1,46000,8,310000,368000,678000
+5kW,5,On Grid,1,Jinko Solar China,2,CanadainSolar Canada,3,No battery ,1,0,0,0,410000,1,46000,10,410000,460000,870000
+7.5kW,6,On Grid,1,Jinko Solar China,2,CanadainSolar Canada,3,No battery ,1,0,0,0,540000,1,46000,17,540000,782000,1322000
+8kW,7,On Grid,1,Jinko Solar China,2,CanadainSolar Canada,3,No battery ,1,0,0,0,640000,1,46000,18,640000,828000,1468000
+10kW,8,On Grid,1,Jinko Solar China,2,CanadainSolar Canada,3,No battery ,1,0,0,0,760000,1,46000,20,760000,920000,1680000
+15kW,9,On Grid,1,Jinko Solar China,2,CanadainSolar Canada,3,No battery ,1,0,0,0,540000,2,46000,30,1080000,1380000,2460000
+20kW,10,On Grid,1,Jinko Solar China,2,CanadainSolar Canada,3,No battery ,1,0,0,0,760000,2,46000,40,1520000,1840000,3360000
+30kW,11,On Grid,1,Jinko Solar China,2,CanadainSolar Canada,3,No battery ,1,0,0,0,760000,3,46000,60,2280000,2760000,5040000
+40kW,12,On Grid,1,Jinko Solar China,2,CanadainSolar Canada,3,No battery ,1,0,0,0,760000,4,46000,80,3040000,3680000,6720000
+50kW,13,On Grid,1,Jinko Solar China,2,CanadainSolar Canada,3,No battery ,1,0,0,0,760000,5,46000,100,3800000,4600000,8400000
+60kW,14,On Grid,1,Jinko Solar China,2,CanadainSolar Canada,3,No battery ,1,0,0,0,760000,6,46000,120,4560000,5520000,10080000
+1kW,1,On Grid,1,Jinko Solar China,2,Growatt China,4,No battery ,1,0,0,0,73000,1,46000,2,73000,92000,165000
+2kW,2,On Grid,1,Jinko Solar China,2,Growatt China,4,No battery ,1,0,0,0,105000,1,46000,4,105000,184000,289000
+3.5kW,3,On Grid,1,Jinko Solar China,2,Growatt China,4,No battery ,1,0,0,0,216000,1,46000,7,216000,322000,538000
+4kW,4,On Grid,1,Jinko Solar China,2,Growatt China,4,No battery ,1,0,0,0,340000,1,46000,8,340000,368000,708000
+5kW,5,On Grid,1,Jinko Solar China,2,Growatt China,4,No battery ,1,0,0,0,420000,1,46000,10,420000,460000,880000
+7.5kW,6,On Grid,1,Jinko Solar China,2,Growatt China,4,No battery ,1,0,0,0,540000,1,46000,17,540000,782000,1322000
+8kW,7,On Grid,1,Jinko Solar China,2,Growatt China,4,No battery ,1,0,0,0,580000,1,46000,18,580000,828000,1408000
+10kW,8,On Grid,1,Jinko Solar China,2,Growatt China,4,No battery ,1,0,0,0,630000,1,46000,20,630000,920000,1550000
+15kW,9,On Grid,1,Jinko Solar China,2,Growatt China,4,No battery ,1,0,0,0,580000,2,46000,30,1160000,1380000,2540000
+20kW,10,On Grid,1,Jinko Solar China,2,Growatt China,4,No battery ,1,0,0,0,630000,2,46000,40,1260000,1840000,3100000
+30kW,11,On Grid,1,Jinko Solar China,2,Growatt China,4,No battery ,1,0,0,0,630000,3,46000,60,1890000,2760000,4650000
+40kW,12,On Grid,1,Jinko Solar China,2,Growatt China,4,No battery ,1,0,0,0,630000,4,46000,80,2520000,3680000,6200000
+50kW,13,On Grid,1,Jinko Solar China,2,Growatt China,4,No battery ,1,0,0,0,630000,5,46000,100,3150000,4600000,7750000
+60kW,14,On Grid,1,Jinko Solar China,2,Growatt China,4,No battery ,1,0,0,0,630000,6,46000,120,3780000,5520000,9300000
+1kW,1,On Grid,1,Canadian Solar Canada,3,Goodwee China,1,No battery ,1,0,0,0,74000,1,54000,2,74000,108000,182000
+2kW,2,On Grid,1,Canadian Solar Canada,3,Goodwee China,1,No battery ,1,0,0,0,110000,1,54000,4,110000,216000,326000
+3.5kW,3,On Grid,1,Canadian Solar Canada,3,Goodwee China,1,No battery ,1,0,0,0,210000,1,54000,7,210000,378000,588000
+4kW,4,On Grid,1,Canadian Solar Canada,3,Goodwee China,1,No battery ,1,0,0,0,300000,1,54000,8,300000,432000,732000
+5kW,5,On Grid,1,Canadian Solar Canada,3,Goodwee China,1,No battery ,1,0,0,0,410000,1,54000,10,410000,540000,950000
+7.5kW,6,On Grid,1,Canadian Solar Canada,3,Goodwee China,1,No battery ,1,0,0,0,520000,1,54000,17,520000,918000,1438000
+8kW,7,On Grid,1,Canadian Solar Canada,3,Goodwee China,1,No battery ,1,0,0,0,560000,1,54000,18,560000,972000,1532000
+10kW,8,On Grid,1,Canadian Solar Canada,3,Goodwee China,1,No battery ,1,0,0,0,620000,1,54000,20,620000,1080000,1700000
+15kW,9,On Grid,1,Canadian Solar Canada,3,Goodwee China,1,No battery ,1,0,0,0,520000,2,54000,30,1040000,1620000,2660000
+20kW,10,On Grid,1,Canadian Solar Canada,3,Goodwee China,1,No battery ,1,0,0,0,620000,2,54000,40,1240000,2160000,3400000
+30kW,11,On Grid,1,Canadian Solar Canada,3,Goodwee China,1,No battery ,1,0,0,0,620000,3,54000,60,1860000,3240000,5100000
+40kW,12,On Grid,1,Canadian Solar Canada,3,Goodwee China,1,No battery ,1,0,0,0,620000,4,54000,80,2480000,4320000,6800000
+50kW,13,On Grid,1,Canadian Solar Canada,3,Goodwee China,1,No battery ,1,0,0,0,620000,5,54000,100,3100000,5400000,8500000
+60kW,14,On Grid,1,Canadian Solar Canada,3,Goodwee China,1,No battery ,1,0,0,0,620000,6,54000,120,3720000,6480000,10200000
+1kW,1,On Grid,1,Canadian Solar Canada,3,SMA Germany ,2,No battery ,1,0,0,0,94000,1,54000,2,94000,108000,202000
+2kW,2,On Grid,1,Canadian Solar Canada,3,SMA Germany ,2,No battery ,1,0,0,0,140000,1,54000,4,140000,216000,356000
+3.5kW,3,On Grid,1,Canadian Solar Canada,3,SMA Germany ,2,No battery ,1,0,0,0,260000,1,54000,7,260000,378000,638000
+4kW,4,On Grid,1,Canadian Solar Canada,3,SMA Germany ,2,No battery ,1,0,0,0,370000,1,54000,8,370000,432000,802000
+5kW,5,On Grid,1,Canadian Solar Canada,3,SMA Germany ,2,No battery ,1,0,0,0,490000,1,54000,10,490000,540000,1030000
+7.5kW,6,On Grid,1,Canadian Solar Canada,3,SMA Germany ,2,No battery ,1,0,0,0,580000,1,54000,17,580000,918000,1498000
+8kW,7,On Grid,1,Canadian Solar Canada,3,SMA Germany ,2,No battery ,1,0,0,0,650000,1,54000,18,650000,972000,1622000
+10kW,8,On Grid,1,Canadian Solar Canada,3,SMA Germany ,2,No battery ,1,0,0,0,780000,1,54000,20,780000,1080000,1860000
+15kW,9,On Grid,1,Canadian Solar Canada,3,SMA Germany ,2,No battery ,1,0,0,0,580000,2,54000,30,1160000,1620000,2780000
+20kW,10,On Grid,1,Canadian Solar Canada,3,SMA Germany ,2,No battery ,1,0,0,0,780000,2,54000,40,1560000,2160000,3720000
+30kW,11,On Grid,1,Canadian Solar Canada,3,SMA Germany ,2,No battery ,1,0,0,0,780000,3,54000,60,2340000,3240000,5580000
+40kW,12,On Grid,1,Canadian Solar Canada,3,SMA Germany ,2,No battery ,1,0,0,0,780000,4,54000,80,3120000,4320000,7440000
+50kW,13,On Grid,1,Canadian Solar Canada,3,SMA Germany ,2,No battery ,1,0,0,0,780000,5,54000,100,3900000,5400000,9300000
+60kW,14,On Grid,1,Canadian Solar Canada,3,SMA Germany ,2,No battery ,1,0,0,0,780000,6,54000,120,4680000,6480000,11160000
+1kW,1,On Grid,1,Canadian Solar Canada,3,CanadainSolar Canada,3,No battery ,1,0,0,0,91000,1,54000,2,91000,108000,199000
+2kW,2,On Grid,1,Canadian Solar Canada,3,CanadainSolar Canada,3,No battery ,1,0,0,0,130000,1,54000,4,130000,216000,346000
+3.5kW,3,On Grid,1,Canadian Solar Canada,3,CanadainSolar Canada,3,No battery ,1,0,0,0,220000,1,54000,7,220000,378000,598000
+4kW,4,On Grid,1,Canadian Solar Canada,3,CanadainSolar Canada,3,No battery ,1,0,0,0,310000,1,54000,8,310000,432000,742000
+5kW,5,On Grid,1,Canadian Solar Canada,3,CanadainSolar Canada,3,No battery ,1,0,0,0,410000,1,54000,10,410000,540000,950000
+7.5kW,6,On Grid,1,Canadian Solar Canada,3,CanadainSolar Canada,3,No battery ,1,0,0,0,540000,1,54000,17,540000,918000,1458000
+8kW,7,On Grid,1,Canadian Solar Canada,3,CanadainSolar Canada,3,No battery ,1,0,0,0,640000,1,54000,18,640000,972000,1612000
+10kW,8,On Grid,1,Canadian Solar Canada,3,CanadainSolar Canada,3,No battery ,1,0,0,0,760000,1,54000,20,760000,1080000,1840000
+15kW,9,On Grid,1,Canadian Solar Canada,3,CanadainSolar Canada,3,No battery ,1,0,0,0,540000,2,54000,30,1080000,1620000,2700000
+20kW,10,On Grid,1,Canadian Solar Canada,3,CanadainSolar Canada,3,No battery ,1,0,0,0,760000,2,54000,40,1520000,2160000,3680000
+30kW,11,On Grid,1,Canadian Solar Canada,3,CanadainSolar Canada,3,No battery ,1,0,0,0,760000,3,54000,60,2280000,3240000,5520000
+40kW,12,On Grid,1,Canadian Solar Canada,3,CanadainSolar Canada,3,No battery ,1,0,0,0,760000,4,54000,80,3040000,4320000,7360000
+50kW,13,On Grid,1,Canadian Solar Canada,3,CanadainSolar Canada,3,No battery ,1,0,0,0,760000,5,54000,100,3800000,5400000,9200000
+60kW,14,On Grid,1,Canadian Solar Canada,3,CanadainSolar Canada,3,No battery ,1,0,0,0,760000,6,54000,120,4560000,6480000,11040000
+1kW,1,On Grid,1,Canadian Solar Canada,3,Growatt China,4,No battery ,1,0,0,0,73000,1,54000,2,73000,108000,181000
+2kW,2,On Grid,1,Canadian Solar Canada,3,Growatt China,4,No battery ,1,0,0,0,105000,1,54000,4,105000,216000,321000
+3.5kW,3,On Grid,1,Canadian Solar Canada,3,Growatt China,4,No battery ,1,0,0,0,216000,1,54000,7,216000,378000,594000
+4kW,4,On Grid,1,Canadian Solar Canada,3,Growatt China,4,No battery ,1,0,0,0,340000,1,54000,8,340000,432000,772000
+5kW,5,On Grid,1,Canadian Solar Canada,3,Growatt China,4,No battery ,1,0,0,0,420000,1,54000,10,420000,540000,960000
+7.5kW,6,On Grid,1,Canadian Solar Canada,3,Growatt China,4,No battery ,1,0,0,0,540000,1,54000,17,540000,918000,1458000
+8kW,7,On Grid,1,Canadian Solar Canada,3,Growatt China,4,No battery ,1,0,0,0,580000,1,54000,18,580000,972000,1552000
+10kW,8,On Grid,1,Canadian Solar Canada,3,Growatt China,4,No battery ,1,0,0,0,630000,1,54000,20,630000,1080000,1710000
+15kW,9,On Grid,1,Canadian Solar Canada,3,Growatt China,4,No battery ,1,0,0,0,580000,2,54000,30,1160000,1620000,2780000
+20kW,10,On Grid,1,Canadian Solar Canada,3,Growatt China,4,No battery ,1,0,0,0,630000,2,54000,40,1260000,2160000,3420000
+30kW,11,On Grid,1,Canadian Solar Canada,3,Growatt China,4,No battery ,1,0,0,0,630000,3,54000,60,1890000,3240000,5130000
+40kW,12,On Grid,1,Canadian Solar Canada,3,Growatt China,4,No battery ,1,0,0,0,630000,4,54000,80,2520000,4320000,6840000
+50kW,13,On Grid,1,Canadian Solar Canada,3,Growatt China,4,No battery ,1,0,0,0,630000,5,54000,100,3150000,5400000,8550000
+60kW,14,On Grid,1,Canadian Solar Canada,3,Growatt China,4,No battery ,1,0,0,0,630000,6,54000,120,3780000,6480000,10260000
+1kW,1,On Grid,1,Panasonic Japan,4,Goodwee China,1,No battery ,1,0,0,0,74000,1,62000,2,74000,124000,198000
+2kW,2,On Grid,1,Panasonic Japan,4,Goodwee China,1,No battery ,1,0,0,0,110000,1,62000,4,110000,248000,358000
+3.5kW,3,On Grid,1,Panasonic Japan,4,Goodwee China,1,No battery ,1,0,0,0,210000,1,62000,7,210000,434000,644000
+4kW,4,On Grid,1,Panasonic Japan,4,Goodwee China,1,No battery ,1,0,0,0,300000,1,62000,8,300000,496000,796000
+5kW,5,On Grid,1,Panasonic Japan,4,Goodwee China,1,No battery ,1,0,0,0,410000,1,62000,10,410000,620000,1030000
+7.5kW,6,On Grid,1,Panasonic Japan,4,Goodwee China,1,No battery ,1,0,0,0,520000,1,62000,17,520000,1054000,1574000
+8kW,7,On Grid,1,Panasonic Japan,4,Goodwee China,1,No battery ,1,0,0,0,560000,1,62000,18,560000,1116000,1676000
+10kW,8,On Grid,1,Panasonic Japan,4,Goodwee China,1,No battery ,1,0,0,0,620000,1,62000,20,620000,1240000,1860000
+15kW,9,On Grid,1,Panasonic Japan,4,Goodwee China,1,No battery ,1,0,0,0,520000,2,62000,30,1040000,1860000,2900000
+20kW,10,On Grid,1,Panasonic Japan,4,Goodwee China,1,No battery ,1,0,0,0,620000,2,62000,40,1240000,2480000,3720000
+30kW,11,On Grid,1,Panasonic Japan,4,Goodwee China,1,No battery ,1,0,0,0,620000,3,62000,60,1860000,3720000,5580000
+40kW,12,On Grid,1,Panasonic Japan,4,Goodwee China,1,No battery ,1,0,0,0,620000,4,62000,80,2480000,4960000,7440000
+50kW,13,On Grid,1,Panasonic Japan,4,Goodwee China,1,No battery ,1,0,0,0,620000,5,62000,100,3100000,6200000,9300000
+60kW,14,On Grid,1,Panasonic Japan,4,Goodwee China,1,No battery ,1,0,0,0,620000,6,62000,120,3720000,7440000,11160000
+1kW,1,On Grid,1,Panasonic Japan,4,SMA Germany ,2,No battery ,1,0,0,0,94000,1,62000,2,94000,124000,218000
+2kW,2,On Grid,1,Panasonic Japan,4,SMA Germany ,2,No battery ,1,0,0,0,140000,1,62000,4,140000,248000,388000
+3.5kW,3,On Grid,1,Panasonic Japan,4,SMA Germany ,2,No battery ,1,0,0,0,260000,1,62000,7,260000,434000,694000
+4kW,4,On Grid,1,Panasonic Japan,4,SMA Germany ,2,No battery ,1,0,0,0,370000,1,62000,8,370000,496000,866000
+5kW,5,On Grid,1,Panasonic Japan,4,SMA Germany ,2,No battery ,1,0,0,0,490000,1,62000,10,490000,620000,1110000
+7.5kW,6,On Grid,1,Panasonic Japan,4,SMA Germany ,2,No battery ,1,0,0,0,580000,1,62000,17,580000,1054000,1634000
+8kW,7,On Grid,1,Panasonic Japan,4,SMA Germany ,2,No battery ,1,0,0,0,650000,1,62000,18,650000,1116000,1766000
+10kW,8,On Grid,1,Panasonic Japan,4,SMA Germany ,2,No battery ,1,0,0,0,780000,1,62000,20,780000,1240000,2020000
+15kW,9,On Grid,1,Panasonic Japan,4,SMA Germany ,2,No battery ,1,0,0,0,580000,2,62000,30,1160000,1860000,3020000
+20kW,10,On Grid,1,Panasonic Japan,4,SMA Germany ,2,No battery ,1,0,0,0,780000,2,62000,40,1560000,2480000,4040000
+30kW,11,On Grid,1,Panasonic Japan,4,SMA Germany ,2,No battery ,1,0,0,0,780000,3,62000,60,2340000,3720000,6060000
+40kW,12,On Grid,1,Panasonic Japan,4,SMA Germany ,2,No battery ,1,0,0,0,780000,4,62000,80,3120000,4960000,8080000
+50kW,13,On Grid,1,Panasonic Japan,4,SMA Germany ,2,No battery ,1,0,0,0,780000,5,62000,100,3900000,6200000,10100000
+60kW,14,On Grid,1,Panasonic Japan,4,SMA Germany ,2,No battery ,1,0,0,0,780000,6,62000,120,4680000,7440000,12120000
+1kW,1,On Grid,1,Panasonic Japan,4,CanadainSolar Canada,3,No battery ,1,0,0,0,91000,1,62000,2,91000,124000,215000
+2kW,2,On Grid,1,Panasonic Japan,4,CanadainSolar Canada,3,No battery ,1,0,0,0,130000,1,62000,4,130000,248000,378000
+3.5kW,3,On Grid,1,Panasonic Japan,4,CanadainSolar Canada,3,No battery ,1,0,0,0,220000,1,62000,7,220000,434000,654000
+4kW,4,On Grid,1,Panasonic Japan,4,CanadainSolar Canada,3,No battery ,1,0,0,0,310000,1,62000,8,310000,496000,806000
+5kW,5,On Grid,1,Panasonic Japan,4,CanadainSolar Canada,3,No battery ,1,0,0,0,410000,1,62000,10,410000,620000,1030000
+7.5kW,6,On Grid,1,Panasonic Japan,4,CanadainSolar Canada,3,No battery ,1,0,0,0,540000,1,62000,17,540000,1054000,1594000
+8kW,7,On Grid,1,Panasonic Japan,4,CanadainSolar Canada,3,No battery ,1,0,0,0,640000,1,62000,18,640000,1116000,1756000
+10kW,8,On Grid,1,Panasonic Japan,4,CanadainSolar Canada,3,No battery ,1,0,0,0,760000,1,62000,20,760000,1240000,2000000
+15kW,9,On Grid,1,Panasonic Japan,4,CanadainSolar Canada,3,No battery ,1,0,0,0,540000,2,62000,30,1080000,1860000,2940000
+20kW,10,On Grid,1,Panasonic Japan,4,CanadainSolar Canada,3,No battery ,1,0,0,0,760000,2,62000,40,1520000,2480000,4000000
+30kW,11,On Grid,1,Panasonic Japan,4,CanadainSolar Canada,3,No battery ,1,0,0,0,760000,3,62000,60,2280000,3720000,6000000
+40kW,12,On Grid,1,Panasonic Japan,4,CanadainSolar Canada,3,No battery ,1,0,0,0,760000,4,62000,80,3040000,4960000,8000000
+50kW,13,On Grid,1,Panasonic Japan,4,CanadainSolar Canada,3,No battery ,1,0,0,0,760000,5,62000,100,3800000,6200000,10000000
+60kW,14,On Grid,1,Panasonic Japan,4,CanadainSolar Canada,3,No battery ,1,0,0,0,760000,6,62000,120,4560000,7440000,12000000
+1kW,1,On Grid,1,Panasonic Japan,4,Growatt China,4,No battery ,1,0,0,0,73000,1,62000,2,73000,124000,197000
+2kW,2,On Grid,1,Panasonic Japan,4,Growatt China,4,No battery ,1,0,0,0,105000,1,62000,4,105000,248000,353000
+3.5kW,3,On Grid,1,Panasonic Japan,4,Growatt China,4,No battery ,1,0,0,0,216000,1,62000,7,216000,434000,650000
+4kW,4,On Grid,1,Panasonic Japan,4,Growatt China,4,No battery ,1,0,0,0,340000,1,62000,8,340000,496000,836000
+5kW,5,On Grid,1,Panasonic Japan,4,Growatt China,4,No battery ,1,0,0,0,420000,1,62000,10,420000,620000,1040000
+7.5kW,6,On Grid,1,Panasonic Japan,4,Growatt China,4,No battery ,1,0,0,0,540000,1,62000,17,540000,1054000,1594000
+8kW,7,On Grid,1,Panasonic Japan,4,Growatt China,4,No battery ,1,0,0,0,580000,1,62000,18,580000,1116000,1696000
+10kW,8,On Grid,1,Panasonic Japan,4,Growatt China,4,No battery ,1,0,0,0,630000,1,62000,20,630000,1240000,1870000
+15kW,9,On Grid,1,Panasonic Japan,4,Growatt China,4,No battery ,1,0,0,0,580000,2,62000,30,1160000,1860000,3020000
+20kW,10,On Grid,1,Panasonic Japan,4,Growatt China,4,No battery ,1,0,0,0,630000,2,62000,40,1260000,2480000,3740000
+30kW,11,On Grid,1,Panasonic Japan,4,Growatt China,4,No battery ,1,0,0,0,630000,3,62000,60,1890000,3720000,5610000
+40kW,12,On Grid,1,Panasonic Japan,4,Growatt China,4,No battery ,1,0,0,0,630000,4,62000,80,2520000,4960000,7480000
+50kW,13,On Grid,1,Panasonic Japan,4,Growatt China,4,No battery ,1,0,0,0,630000,5,62000,100,3150000,6200000,9350000
+60kW,14,On Grid,1,Panasonic Japan,4,Growatt China,4,No battery ,1,0,0,0,630000,6,62000,120,3780000,7440000,11220000
+1kW,1,Off Grid,2,JA Solar China,1,Goodwee China,1,LFP Lithium-ion,2,80000,1,80000,64000,1,42000,1,64000,42000,186000
+2kW,2,Off Grid,2,JA Solar China,1,Goodwee China,1,LFP Lithium-ion,2,170000,1,170000,100000,1,42000,2,100000,84000,354000
+3.5kW,3,Off Grid,2,JA Solar China,1,Goodwee China,1,LFP Lithium-ion,2,250000,1,250000,190000,1,42000,4,190000,168000,608000
+4kW,4,Off Grid,2,JA Solar China,1,Goodwee China,1,LFP Lithium-ion,2,410000,1,410000,280000,1,42000,4,280000,168000,858000
+5kW,5,Off Grid,2,JA Solar China,1,Goodwee China,1,LFP Lithium-ion,2,410000,1,410000,380000,1,42000,5,380000,210000,1000000
+7.5kW,6,Off Grid,2,JA Solar China,1,Goodwee China,1,LFP Lithium-ion,2,890000,1,890000,490000,1,42000,7,490000,294000,1674000
+8kW,7,Off Grid,2,JA Solar China,1,Goodwee China,1,LFP Lithium-ion,2,890000,1,890000,500000,1,42000,8,500000,336000,1726000
+10kW,8,Off Grid,2,JA Solar China,1,Goodwee China,1,LFP Lithium-ion,2,890000,1,890000,580000,1,42000,10,580000,420000,1890000
+15kW,9,Off Grid,2,JA Solar China,1,Goodwee China,1,LFP Lithium-ion,2,890000,2,1780000,580000,2,42000,15,1160000,630000,3570000
+20kW,10,Off Grid,2,JA Solar China,1,Goodwee China,1,LFP Lithium-ion,2,890000,2,1780000,580000,2,42000,20,1160000,840000,3780000
+30kW,11,Off Grid,2,JA Solar China,1,Goodwee China,1,LFP Lithium-ion,2,890000,3,2670000,580000,3,42000,30,1740000,1260000,5670000
+40kW,12,Off Grid,2,JA Solar China,1,Goodwee China,1,LFP Lithium-ion,2,890000,4,3560000,580000,4,42000,40,2320000,1680000,7560000
+50kW,13,Off Grid,2,JA Solar China,1,Goodwee China,1,LFP Lithium-ion,2,890000,5,4450000,580000,5,42000,50,2900000,2100000,9450000
+60kW,14,Off Grid,2,JA Solar China,1,Goodwee China,1,LFP Lithium-ion,2,890000,6,5340000,580000,6,42000,60,3480000,2520000,11340000
+1kW,1,Off Grid,2,JA Solar China,1,SMA Germany ,2,LFP Lithium-ion,2,80000,1,80000,84000,1,42000,1,84000,42000,206000
+2kW,2,Off Grid,2,JA Solar China,1,SMA Germany ,2,LFP Lithium-ion,2,170000,1,170000,120000,1,42000,2,120000,84000,374000
+3.5kW,3,Off Grid,2,JA Solar China,1,SMA Germany ,2,LFP Lithium-ion,2,250000,1,250000,240000,1,42000,4,240000,168000,658000
+4kW,4,Off Grid,2,JA Solar China,1,SMA Germany ,2,LFP Lithium-ion,2,410000,1,410000,320000,1,42000,4,320000,168000,898000
+5kW,5,Off Grid,2,JA Solar China,1,SMA Germany ,2,LFP Lithium-ion,2,410000,1,410000,440000,1,42000,5,440000,210000,1060000
+7.5kW,6,Off Grid,2,JA Solar China,1,SMA Germany ,2,LFP Lithium-ion,2,890000,1,890000,520000,1,42000,7,520000,294000,1704000
+8kW,7,Off Grid,2,JA Solar China,1,SMA Germany ,2,LFP Lithium-ion,2,890000,1,890000,610000,1,42000,8,610000,336000,1836000
+10kW,8,Off Grid,2,JA Solar China,1,SMA Germany ,2,LFP Lithium-ion,2,890000,1,890000,710000,1,42000,10,710000,420000,2020000
+15kW,9,Off Grid,2,JA Solar China,1,SMA Germany ,2,LFP Lithium-ion,2,890000,2,1780000,520000,2,42000,15,1040000,630000,3450000
+20kW,10,Off Grid,2,JA Solar China,1,SMA Germany ,2,LFP Lithium-ion,2,890000,2,1780000,710000,2,42000,20,1420000,840000,4040000
+30kW,11,Off Grid,2,JA Solar China,1,SMA Germany ,2,LFP Lithium-ion,2,890000,3,2670000,710000,3,42000,30,2130000,1260000,6060000
+40kW,12,Off Grid,2,JA Solar China,1,SMA Germany ,2,LFP Lithium-ion,2,890000,4,3560000,710000,4,42000,40,2840000,1680000,8080000
+50kW,13,Off Grid,2,JA Solar China,1,SMA Germany ,2,LFP Lithium-ion,2,890000,5,4450000,710000,5,42000,50,3550000,2100000,10100000
+60kW,14,Off Grid,2,JA Solar China,1,SMA Germany ,2,LFP Lithium-ion,2,890000,6,5340000,710000,6,42000,60,4260000,2520000,12120000
+1kW,1,Off Grid,2,JA Solar China,1,CanadainSolar Canada,3,LFP Lithium-ion,2,80000,1,80000,88000,1,42000,1,88000,42000,210000
+2kW,2,Off Grid,2,JA Solar China,1,CanadainSolar Canada,3,LFP Lithium-ion,2,170000,1,170000,120000,1,42000,2,120000,84000,374000
+3.5kW,3,Off Grid,2,JA Solar China,1,CanadainSolar Canada,3,LFP Lithium-ion,2,250000,1,250000,210000,1,42000,4,210000,168000,628000
+4kW,4,Off Grid,2,JA Solar China,1,CanadainSolar Canada,3,LFP Lithium-ion,2,410000,1,410000,290000,1,42000,4,290000,168000,868000
+5kW,5,Off Grid,2,JA Solar China,1,CanadainSolar Canada,3,LFP Lithium-ion,2,410000,1,410000,390000,1,42000,5,390000,210000,1010000
+7.5kW,6,Off Grid,2,JA Solar China,1,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,1,890000,500000,1,42000,7,500000,294000,1684000
+8kW,7,Off Grid,2,JA Solar China,1,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,1,890000,610000,1,42000,8,610000,336000,1836000
+10kW,8,Off Grid,2,JA Solar China,1,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,1,890000,710000,1,42000,10,710000,420000,2020000
+15kW,9,Off Grid,2,JA Solar China,1,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,2,1780000,500000,2,42000,15,1000000,630000,3410000
+20kW,10,Off Grid,2,JA Solar China,1,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,2,1780000,710000,2,42000,20,1420000,840000,4040000
+30kW,11,Off Grid,2,JA Solar China,1,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,3,2670000,710000,3,42000,30,2130000,1260000,6060000
+40kW,12,Off Grid,2,JA Solar China,1,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,4,3560000,710000,4,42000,40,2840000,1680000,8080000
+50kW,13,Off Grid,2,JA Solar China,1,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,5,4450000,710000,5,42000,50,3550000,2100000,10100000
+60kW,14,Off Grid,2,JA Solar China,1,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,6,5340000,710000,6,42000,60,4260000,2520000,12120000
+1kW,1,Off Grid,2,JA Solar China,1,Growatt China,4,LFP Lithium-ion,2,80000,1,80000,66000,1,42000,1,66000,42000,188000
+2kW,2,Off Grid,2,JA Solar China,1,Growatt China,4,LFP Lithium-ion,2,170000,1,170000,95000,1,42000,2,95000,84000,349000
+3.5kW,3,Off Grid,2,JA Solar China,1,Growatt China,4,LFP Lithium-ion,2,250000,1,250000,198000,1,42000,4,198000,168000,616000
+4kW,4,Off Grid,2,JA Solar China,1,Growatt China,4,LFP Lithium-ion,2,410000,1,410000,310000,1,42000,4,310000,168000,888000
+5kW,5,Off Grid,2,JA Solar China,1,Growatt China,4,LFP Lithium-ion,2,410000,1,410000,390000,1,42000,5,390000,210000,1010000
+7.5kW,6,Off Grid,2,JA Solar China,1,Growatt China,4,LFP Lithium-ion,2,890000,1,890000,490000,1,42000,7,490000,294000,1674000
+8kW,7,Off Grid,2,JA Solar China,1,Growatt China,4,LFP Lithium-ion,2,890000,1,890000,520000,1,42000,8,520000,336000,1746000
+10kW,8,Off Grid,2,JA Solar China,1,Growatt China,4,LFP Lithium-ion,2,890000,1,890000,580000,1,42000,10,580000,420000,1890000
+15kW,9,Off Grid,2,JA Solar China,1,Growatt China,4,LFP Lithium-ion,2,890000,2,1780000,490000,2,42000,15,980000,630000,3390000
+20kW,10,Off Grid,2,JA Solar China,1,Growatt China,4,LFP Lithium-ion,2,890000,2,1780000,580000,2,42000,20,1160000,840000,3780000
+30kW,11,Off Grid,2,JA Solar China,1,Growatt China,4,LFP Lithium-ion,2,890000,3,2670000,580000,3,42000,30,1740000,1260000,5670000
+40kW,12,Off Grid,2,JA Solar China,1,Growatt China,4,LFP Lithium-ion,2,890000,4,3560000,580000,4,42000,40,2320000,1680000,7560000
+50kW,13,Off Grid,2,JA Solar China,1,Growatt China,4,LFP Lithium-ion,2,890000,5,4450000,580000,5,42000,50,2900000,2100000,9450000
+60kW,14,Off Grid,2,JA Solar China,1,Growatt China,4,LFP Lithium-ion,2,890000,6,5340000,580000,6,42000,60,3480000,2520000,11340000
+1kW,1,Off Grid,2,Jinko Solar China,2,Goodwee China,1,LFP Lithium-ion,2,80000,1,80000,64000,1,46000,1,64000,46000,190000
+2kW,2,Off Grid,2,Jinko Solar China,2,Goodwee China,1,LFP Lithium-ion,2,170000,1,170000,100000,1,46000,2,100000,92000,362000
+3.5kW,3,Off Grid,2,Jinko Solar China,2,Goodwee China,1,LFP Lithium-ion,2,250000,1,250000,190000,1,46000,4,190000,184000,624000
+4kW,4,Off Grid,2,Jinko Solar China,2,Goodwee China,1,LFP Lithium-ion,2,410000,1,410000,280000,1,46000,4,280000,184000,874000
+5kW,5,Off Grid,2,Jinko Solar China,2,Goodwee China,1,LFP Lithium-ion,2,410000,1,410000,380000,1,46000,5,380000,230000,1020000
+7.5kW,6,Off Grid,2,Jinko Solar China,2,Goodwee China,1,LFP Lithium-ion,2,890000,1,890000,490000,1,46000,7,490000,322000,1702000
+8kW,7,Off Grid,2,Jinko Solar China,2,Goodwee China,1,LFP Lithium-ion,2,890000,1,890000,500000,1,46000,8,500000,368000,1758000
+10kW,8,Off Grid,2,Jinko Solar China,2,Goodwee China,1,LFP Lithium-ion,2,890000,1,890000,580000,1,46000,10,580000,460000,1930000
+15kW,9,Off Grid,2,Jinko Solar China,2,Goodwee China,1,LFP Lithium-ion,2,890000,2,1780000,580000,2,46000,15,1160000,690000,3630000
+20kW,10,Off Grid,2,Jinko Solar China,2,Goodwee China,1,LFP Lithium-ion,2,890000,2,1780000,580000,2,46000,20,1160000,920000,3860000
+30kW,11,Off Grid,2,Jinko Solar China,2,Goodwee China,1,LFP Lithium-ion,2,890000,3,2670000,580000,3,46000,30,1740000,1380000,5790000
+40kW,12,Off Grid,2,Jinko Solar China,2,Goodwee China,1,LFP Lithium-ion,2,890000,4,3560000,580000,4,46000,40,2320000,1840000,7720000
+50kW,13,Off Grid,2,Jinko Solar China,2,Goodwee China,1,LFP Lithium-ion,2,890000,5,4450000,580000,5,46000,50,2900000,2300000,9650000
+60kW,14,Off Grid,2,Jinko Solar China,2,Goodwee China,1,LFP Lithium-ion,2,890000,6,5340000,580000,6,46000,60,3480000,2760000,11580000
+1kW,1,Off Grid,2,Jinko Solar China,2,SMA Germany ,2,LFP Lithium-ion,2,80000,1,80000,84000,1,46000,1,84000,46000,210000
+2kW,2,Off Grid,2,Jinko Solar China,2,SMA Germany ,2,LFP Lithium-ion,2,170000,1,170000,120000,1,46000,2,120000,92000,382000
+3.5kW,3,Off Grid,2,Jinko Solar China,2,SMA Germany ,2,LFP Lithium-ion,2,250000,1,250000,240000,1,46000,4,240000,184000,674000
+4kW,4,Off Grid,2,Jinko Solar China,2,SMA Germany ,2,LFP Lithium-ion,2,410000,1,410000,320000,1,46000,4,320000,184000,914000
+5kW,5,Off Grid,2,Jinko Solar China,2,SMA Germany ,2,LFP Lithium-ion,2,410000,1,410000,440000,1,46000,5,440000,230000,1080000
+7.5kW,6,Off Grid,2,Jinko Solar China,2,SMA Germany ,2,LFP Lithium-ion,2,890000,1,890000,520000,1,46000,7,520000,322000,1732000
+8kW,7,Off Grid,2,Jinko Solar China,2,SMA Germany ,2,LFP Lithium-ion,2,890000,1,890000,610000,1,46000,8,610000,368000,1868000
+10kW,8,Off Grid,2,Jinko Solar China,2,SMA Germany ,2,LFP Lithium-ion,2,890000,1,890000,710000,1,46000,10,710000,460000,2060000
+15kW,9,Off Grid,2,Jinko Solar China,2,SMA Germany ,2,LFP Lithium-ion,2,890000,2,1780000,520000,2,46000,15,1040000,690000,3510000
+20kW,10,Off Grid,2,Jinko Solar China,2,SMA Germany ,2,LFP Lithium-ion,2,890000,2,1780000,710000,2,46000,20,1420000,920000,4120000
+30kW,11,Off Grid,2,Jinko Solar China,2,SMA Germany ,2,LFP Lithium-ion,2,890000,3,2670000,710000,3,46000,30,2130000,1380000,6180000
+40kW,12,Off Grid,2,Jinko Solar China,2,SMA Germany ,2,LFP Lithium-ion,2,890000,4,3560000,710000,4,46000,40,2840000,1840000,8240000
+50kW,13,Off Grid,2,Jinko Solar China,2,SMA Germany ,2,LFP Lithium-ion,2,890000,5,4450000,710000,5,46000,50,3550000,2300000,10300000
+60kW,14,Off Grid,2,Jinko Solar China,2,SMA Germany ,2,LFP Lithium-ion,2,890000,6,5340000,710000,6,46000,60,4260000,2760000,12360000
+1kW,1,Off Grid,2,Jinko Solar China,2,CanadainSolar Canada,3,LFP Lithium-ion,2,80000,1,80000,88000,1,46000,1,88000,46000,214000
+2kW,2,Off Grid,2,Jinko Solar China,2,CanadainSolar Canada,3,LFP Lithium-ion,2,170000,1,170000,120000,1,46000,2,120000,92000,382000
+3.5kW,3,Off Grid,2,Jinko Solar China,2,CanadainSolar Canada,3,LFP Lithium-ion,2,250000,1,250000,210000,1,46000,4,210000,184000,644000
+4kW,4,Off Grid,2,Jinko Solar China,2,CanadainSolar Canada,3,LFP Lithium-ion,2,410000,1,410000,290000,1,46000,4,290000,184000,884000
+5kW,5,Off Grid,2,Jinko Solar China,2,CanadainSolar Canada,3,LFP Lithium-ion,2,410000,1,410000,390000,1,46000,5,390000,230000,1030000
+7.5kW,6,Off Grid,2,Jinko Solar China,2,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,1,890000,500000,1,46000,7,500000,322000,1712000
+8kW,7,Off Grid,2,Jinko Solar China,2,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,1,890000,610000,1,46000,8,610000,368000,1868000
+10kW,8,Off Grid,2,Jinko Solar China,2,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,1,890000,710000,1,46000,10,710000,460000,2060000
+15kW,9,Off Grid,2,Jinko Solar China,2,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,2,1780000,500000,2,46000,15,1000000,690000,3470000
+20kW,10,Off Grid,2,Jinko Solar China,2,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,2,1780000,710000,2,46000,20,1420000,920000,4120000
+30kW,11,Off Grid,2,Jinko Solar China,2,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,3,2670000,710000,3,46000,30,2130000,1380000,6180000
+40kW,12,Off Grid,2,Jinko Solar China,2,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,4,3560000,710000,4,46000,40,2840000,1840000,8240000
+50kW,13,Off Grid,2,Jinko Solar China,2,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,5,4450000,710000,5,46000,50,3550000,2300000,10300000
+60kW,14,Off Grid,2,Jinko Solar China,2,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,6,5340000,710000,6,46000,60,4260000,2760000,12360000
+1kW,1,Off Grid,2,Jinko Solar China,2,Growatt China,4,LFP Lithium-ion,2,80000,1,80000,66000,1,46000,1,66000,46000,192000
+2kW,2,Off Grid,2,Jinko Solar China,2,Growatt China,4,LFP Lithium-ion,2,170000,1,170000,95000,1,46000,2,95000,92000,357000
+3.5kW,3,Off Grid,2,Jinko Solar China,2,Growatt China,4,LFP Lithium-ion,2,250000,1,250000,198000,1,46000,4,198000,184000,632000
+4kW,4,Off Grid,2,Jinko Solar China,2,Growatt China,4,LFP Lithium-ion,2,410000,1,410000,310000,1,46000,4,310000,184000,904000
+5kW,5,Off Grid,2,Jinko Solar China,2,Growatt China,4,LFP Lithium-ion,2,410000,1,410000,390000,1,46000,5,390000,230000,1030000
+7.5kW,6,Off Grid,2,Jinko Solar China,2,Growatt China,4,LFP Lithium-ion,2,890000,1,890000,490000,1,46000,7,490000,322000,1702000
+8kW,7,Off Grid,2,Jinko Solar China,2,Growatt China,4,LFP Lithium-ion,2,890000,1,890000,520000,1,46000,8,520000,368000,1778000
+10kW,8,Off Grid,2,Jinko Solar China,2,Growatt China,4,LFP Lithium-ion,2,890000,1,890000,580000,1,46000,10,580000,460000,1930000
+15kW,9,Off Grid,2,Jinko Solar China,2,Growatt China,4,LFP Lithium-ion,2,890000,2,1780000,490000,2,46000,15,980000,690000,3450000
+20kW,10,Off Grid,2,Jinko Solar China,2,Growatt China,4,LFP Lithium-ion,2,890000,2,1780000,580000,2,46000,20,1160000,920000,3860000
+30kW,11,Off Grid,2,Jinko Solar China,2,Growatt China,4,LFP Lithium-ion,2,890000,3,2670000,580000,3,46000,30,1740000,1380000,5790000
+40kW,12,Off Grid,2,Jinko Solar China,2,Growatt China,4,LFP Lithium-ion,2,890000,4,3560000,580000,4,46000,40,2320000,1840000,7720000
+50kW,13,Off Grid,2,Jinko Solar China,2,Growatt China,4,LFP Lithium-ion,2,890000,5,4450000,580000,5,46000,50,2900000,2300000,9650000
+60kW,14,Off Grid,2,Jinko Solar China,2,Growatt China,4,LFP Lithium-ion,2,890000,6,5340000,580000,6,46000,60,3480000,2760000,11580000
+1kW,1,Off Grid,2,Canadian Solar Canada,3,Goodwee China,1,LFP Lithium-ion,2,80000,1,80000,64000,1,54000,1,64000,54000,198000
+2kW,2,Off Grid,2,Canadian Solar Canada,3,Goodwee China,1,LFP Lithium-ion,2,170000,1,170000,100000,1,54000,2,100000,108000,378000
+3.5kW,3,Off Grid,2,Canadian Solar Canada,3,Goodwee China,1,LFP Lithium-ion,2,250000,1,250000,190000,1,54000,4,190000,216000,656000
+4kW,4,Off Grid,2,Canadian Solar Canada,3,Goodwee China,1,LFP Lithium-ion,2,410000,1,410000,280000,1,54000,4,280000,216000,906000
+5kW,5,Off Grid,2,Canadian Solar Canada,3,Goodwee China,1,LFP Lithium-ion,2,410000,1,410000,380000,1,54000,5,380000,270000,1060000
+7.5kW,6,Off Grid,2,Canadian Solar Canada,3,Goodwee China,1,LFP Lithium-ion,2,890000,1,890000,490000,1,54000,7,490000,378000,1758000
+8kW,7,Off Grid,2,Canadian Solar Canada,3,Goodwee China,1,LFP Lithium-ion,2,890000,1,890000,500000,1,54000,8,500000,432000,1822000
+10kW,8,Off Grid,2,Canadian Solar Canada,3,Goodwee China,1,LFP Lithium-ion,2,890000,1,890000,580000,1,54000,10,580000,540000,2010000
+15kW,9,Off Grid,2,Canadian Solar Canada,3,Goodwee China,1,LFP Lithium-ion,2,890000,2,1780000,580000,2,54000,15,1160000,810000,3750000
+20kW,10,Off Grid,2,Canadian Solar Canada,3,Goodwee China,1,LFP Lithium-ion,2,890000,2,1780000,580000,2,54000,20,1160000,1080000,4020000
+30kW,11,Off Grid,2,Canadian Solar Canada,3,Goodwee China,1,LFP Lithium-ion,2,890000,3,2670000,580000,3,54000,30,1740000,1620000,6030000
+40kW,12,Off Grid,2,Canadian Solar Canada,3,Goodwee China,1,LFP Lithium-ion,2,890000,4,3560000,580000,4,54000,40,2320000,2160000,8040000
+50kW,13,Off Grid,2,Canadian Solar Canada,3,Goodwee China,1,LFP Lithium-ion,2,890000,5,4450000,580000,5,54000,50,2900000,2700000,10050000
+60kW,14,Off Grid,2,Canadian Solar Canada,3,Goodwee China,1,LFP Lithium-ion,2,890000,6,5340000,580000,6,54000,60,3480000,3240000,12060000
+1kW,1,Off Grid,2,Canadian Solar Canada,3,SMA Germany ,2,LFP Lithium-ion,2,80000,1,80000,84000,1,54000,1,84000,54000,218000
+2kW,2,Off Grid,2,Canadian Solar Canada,3,SMA Germany ,2,LFP Lithium-ion,2,170000,1,170000,120000,1,54000,2,120000,108000,398000
+3.5kW,3,Off Grid,2,Canadian Solar Canada,3,SMA Germany ,2,LFP Lithium-ion,2,250000,1,250000,240000,1,54000,4,240000,216000,706000
+4kW,4,Off Grid,2,Canadian Solar Canada,3,SMA Germany ,2,LFP Lithium-ion,2,410000,1,410000,320000,1,54000,4,320000,216000,946000
+5kW,5,Off Grid,2,Canadian Solar Canada,3,SMA Germany ,2,LFP Lithium-ion,2,410000,1,410000,440000,1,54000,5,440000,270000,1120000
+7.5kW,6,Off Grid,2,Canadian Solar Canada,3,SMA Germany ,2,LFP Lithium-ion,2,890000,1,890000,520000,1,54000,7,520000,378000,1788000
+8kW,7,Off Grid,2,Canadian Solar Canada,3,SMA Germany ,2,LFP Lithium-ion,2,890000,1,890000,610000,1,54000,8,610000,432000,1932000
+10kW,8,Off Grid,2,Canadian Solar Canada,3,SMA Germany ,2,LFP Lithium-ion,2,890000,1,890000,710000,1,54000,10,710000,540000,2140000
+15kW,9,Off Grid,2,Canadian Solar Canada,3,SMA Germany ,2,LFP Lithium-ion,2,890000,2,1780000,520000,2,54000,15,1040000,810000,3630000
+20kW,10,Off Grid,2,Canadian Solar Canada,3,SMA Germany ,2,LFP Lithium-ion,2,890000,2,1780000,710000,2,54000,20,1420000,1080000,4280000
+30kW,11,Off Grid,2,Canadian Solar Canada,3,SMA Germany ,2,LFP Lithium-ion,2,890000,3,2670000,710000,3,54000,30,2130000,1620000,6420000
+40kW,12,Off Grid,2,Canadian Solar Canada,3,SMA Germany ,2,LFP Lithium-ion,2,890000,4,3560000,710000,4,54000,40,2840000,2160000,8560000
+50kW,13,Off Grid,2,Canadian Solar Canada,3,SMA Germany ,2,LFP Lithium-ion,2,890000,5,4450000,710000,5,54000,50,3550000,2700000,10700000
+60kW,14,Off Grid,2,Canadian Solar Canada,3,SMA Germany ,2,LFP Lithium-ion,2,890000,6,5340000,710000,6,54000,60,4260000,3240000,12840000
+1kW,1,Off Grid,2,Canadian Solar Canada,3,CanadainSolar Canada,3,LFP Lithium-ion,2,80000,1,80000,88000,1,54000,1,88000,54000,222000
+2kW,2,Off Grid,2,Canadian Solar Canada,3,CanadainSolar Canada,3,LFP Lithium-ion,2,170000,1,170000,120000,1,54000,2,120000,108000,398000
+3.5kW,3,Off Grid,2,Canadian Solar Canada,3,CanadainSolar Canada,3,LFP Lithium-ion,2,250000,1,250000,210000,1,54000,4,210000,216000,676000
+4kW,4,Off Grid,2,Canadian Solar Canada,3,CanadainSolar Canada,3,LFP Lithium-ion,2,410000,1,410000,290000,1,54000,4,290000,216000,916000
+5kW,5,Off Grid,2,Canadian Solar Canada,3,CanadainSolar Canada,3,LFP Lithium-ion,2,410000,1,410000,390000,1,54000,5,390000,270000,1070000
+7.5kW,6,Off Grid,2,Canadian Solar Canada,3,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,1,890000,500000,1,54000,7,500000,378000,1768000
+8kW,7,Off Grid,2,Canadian Solar Canada,3,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,1,890000,610000,1,54000,8,610000,432000,1932000
+10kW,8,Off Grid,2,Canadian Solar Canada,3,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,1,890000,710000,1,54000,10,710000,540000,2140000
+15kW,9,Off Grid,2,Canadian Solar Canada,3,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,2,1780000,500000,2,54000,15,1000000,810000,3590000
+20kW,10,Off Grid,2,Canadian Solar Canada,3,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,2,1780000,710000,2,54000,20,1420000,1080000,4280000
+30kW,11,Off Grid,2,Canadian Solar Canada,3,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,3,2670000,710000,3,54000,30,2130000,1620000,6420000
+40kW,12,Off Grid,2,Canadian Solar Canada,3,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,4,3560000,710000,4,54000,40,2840000,2160000,8560000
+50kW,13,Off Grid,2,Canadian Solar Canada,3,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,5,4450000,710000,5,54000,50,3550000,2700000,10700000
+60kW,14,Off Grid,2,Canadian Solar Canada,3,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,6,5340000,710000,6,54000,60,4260000,3240000,12840000
+1kW,1,Off Grid,2,Canadian Solar Canada,3,Growatt China,4,LFP Lithium-ion,2,80000,1,80000,66000,1,54000,1,66000,54000,200000
+2kW,2,Off Grid,2,Canadian Solar Canada,3,Growatt China,4,LFP Lithium-ion,2,170000,1,170000,95000,1,54000,2,95000,108000,373000
+3.5kW,3,Off Grid,2,Canadian Solar Canada,3,Growatt China,4,LFP Lithium-ion,2,250000,1,250000,198000,1,54000,4,198000,216000,664000
+4kW,4,Off Grid,2,Canadian Solar Canada,3,Growatt China,4,LFP Lithium-ion,2,410000,1,410000,310000,1,54000,4,310000,216000,936000
+5kW,5,Off Grid,2,Canadian Solar Canada,3,Growatt China,4,LFP Lithium-ion,2,410000,1,410000,390000,1,54000,5,390000,270000,1070000
+7.5kW,6,Off Grid,2,Canadian Solar Canada,3,Growatt China,4,LFP Lithium-ion,2,890000,1,890000,490000,1,54000,7,490000,378000,1758000
+8kW,7,Off Grid,2,Canadian Solar Canada,3,Growatt China,4,LFP Lithium-ion,2,890000,1,890000,520000,1,54000,8,520000,432000,1842000
+10kW,8,Off Grid,2,Canadian Solar Canada,3,Growatt China,4,LFP Lithium-ion,2,890000,1,890000,580000,1,54000,10,580000,540000,2010000
+15kW,9,Off Grid,2,Canadian Solar Canada,3,Growatt China,4,LFP Lithium-ion,2,890000,2,1780000,490000,2,54000,15,980000,810000,3570000
+20kW,10,Off Grid,2,Canadian Solar Canada,3,Growatt China,4,LFP Lithium-ion,2,890000,2,1780000,580000,2,54000,20,1160000,1080000,4020000
+30kW,11,Off Grid,2,Canadian Solar Canada,3,Growatt China,4,LFP Lithium-ion,2,890000,3,2670000,580000,3,54000,30,1740000,1620000,6030000
+40kW,12,Off Grid,2,Canadian Solar Canada,3,Growatt China,4,LFP Lithium-ion,2,890000,4,3560000,580000,4,54000,40,2320000,2160000,8040000
+50kW,13,Off Grid,2,Canadian Solar Canada,3,Growatt China,4,LFP Lithium-ion,2,890000,5,4450000,580000,5,54000,50,2900000,2700000,10050000
+60kW,14,Off Grid,2,Canadian Solar Canada,3,Growatt China,4,LFP Lithium-ion,2,890000,6,5340000,580000,6,54000,60,3480000,3240000,12060000
+1kW,1,Off Grid,2,Panasonic Japan,4,Goodwee China,1,LFP Lithium-ion,2,80000,1,80000,64000,1,62000,1,64000,62000,206000
+2kW,2,Off Grid,2,Panasonic Japan,4,Goodwee China,1,LFP Lithium-ion,2,170000,1,170000,100000,1,62000,2,100000,124000,394000
+3.5kW,3,Off Grid,2,Panasonic Japan,4,Goodwee China,1,LFP Lithium-ion,2,250000,1,250000,190000,1,62000,4,190000,248000,688000
+4kW,4,Off Grid,2,Panasonic Japan,4,Goodwee China,1,LFP Lithium-ion,2,410000,1,410000,280000,1,62000,4,280000,248000,938000
+5kW,5,Off Grid,2,Panasonic Japan,4,Goodwee China,1,LFP Lithium-ion,2,410000,1,410000,380000,1,62000,5,380000,310000,1100000
+7.5kW,6,Off Grid,2,Panasonic Japan,4,Goodwee China,1,LFP Lithium-ion,2,890000,1,890000,490000,1,62000,7,490000,434000,1814000
+8kW,7,Off Grid,2,Panasonic Japan,4,Goodwee China,1,LFP Lithium-ion,2,890000,1,890000,500000,1,62000,8,500000,496000,1886000
+10kW,8,Off Grid,2,Panasonic Japan,4,Goodwee China,1,LFP Lithium-ion,2,890000,1,890000,580000,1,62000,10,580000,620000,2090000
+15kW,9,Off Grid,2,Panasonic Japan,4,Goodwee China,1,LFP Lithium-ion,2,890000,2,1780000,580000,2,62000,15,1160000,930000,3870000
+20kW,10,Off Grid,2,Panasonic Japan,4,Goodwee China,1,LFP Lithium-ion,2,890000,2,1780000,580000,2,62000,20,1160000,1240000,4180000
+30kW,11,Off Grid,2,Panasonic Japan,4,Goodwee China,1,LFP Lithium-ion,2,890000,3,2670000,580000,3,62000,30,1740000,1860000,6270000
+40kW,12,Off Grid,2,Panasonic Japan,4,Goodwee China,1,LFP Lithium-ion,2,890000,4,3560000,580000,4,62000,40,2320000,2480000,8360000
+50kW,13,Off Grid,2,Panasonic Japan,4,Goodwee China,1,LFP Lithium-ion,2,890000,5,4450000,580000,5,62000,50,2900000,3100000,10450000
+60kW,14,Off Grid,2,Panasonic Japan,4,Goodwee China,1,LFP Lithium-ion,2,890000,6,5340000,580000,6,62000,60,3480000,3720000,12540000
+1kW,1,Off Grid,2,Panasonic Japan,4,SMA Germany ,2,LFP Lithium-ion,2,80000,1,80000,84000,1,62000,1,84000,62000,226000
+2kW,2,Off Grid,2,Panasonic Japan,4,SMA Germany ,2,LFP Lithium-ion,2,170000,1,170000,120000,1,62000,2,120000,124000,414000
+3.5kW,3,Off Grid,2,Panasonic Japan,4,SMA Germany ,2,LFP Lithium-ion,2,250000,1,250000,240000,1,62000,4,240000,248000,738000
+4kW,4,Off Grid,2,Panasonic Japan,4,SMA Germany ,2,LFP Lithium-ion,2,410000,1,410000,320000,1,62000,4,320000,248000,978000
+5kW,5,Off Grid,2,Panasonic Japan,4,SMA Germany ,2,LFP Lithium-ion,2,410000,1,410000,440000,1,62000,5,440000,310000,1160000
+7.5kW,6,Off Grid,2,Panasonic Japan,4,SMA Germany ,2,LFP Lithium-ion,2,890000,1,890000,520000,1,62000,7,520000,434000,1844000
+8kW,7,Off Grid,2,Panasonic Japan,4,SMA Germany ,2,LFP Lithium-ion,2,890000,1,890000,610000,1,62000,8,610000,496000,1996000
+10kW,8,Off Grid,2,Panasonic Japan,4,SMA Germany ,2,LFP Lithium-ion,2,890000,1,890000,710000,1,62000,10,710000,620000,2220000
+15kW,9,Off Grid,2,Panasonic Japan,4,SMA Germany ,2,LFP Lithium-ion,2,890000,2,1780000,520000,2,62000,15,1040000,930000,3750000
+20kW,10,Off Grid,2,Panasonic Japan,4,SMA Germany ,2,LFP Lithium-ion,2,890000,2,1780000,710000,2,62000,20,1420000,1240000,4440000
+30kW,11,Off Grid,2,Panasonic Japan,4,SMA Germany ,2,LFP Lithium-ion,2,890000,3,2670000,710000,3,62000,30,2130000,1860000,6660000
+40kW,12,Off Grid,2,Panasonic Japan,4,SMA Germany ,2,LFP Lithium-ion,2,890000,4,3560000,710000,4,62000,40,2840000,2480000,8880000
+50kW,13,Off Grid,2,Panasonic Japan,4,SMA Germany ,2,LFP Lithium-ion,2,890000,5,4450000,710000,5,62000,50,3550000,3100000,11100000
+60kW,14,Off Grid,2,Panasonic Japan,4,SMA Germany ,2,LFP Lithium-ion,2,890000,6,5340000,710000,6,62000,60,4260000,3720000,13320000
+1kW,1,Off Grid,2,Panasonic Japan,4,CanadainSolar Canada,3,LFP Lithium-ion,2,80000,1,80000,88000,1,62000,1,88000,62000,230000
+2kW,2,Off Grid,2,Panasonic Japan,4,CanadainSolar Canada,3,LFP Lithium-ion,2,170000,1,170000,120000,1,62000,2,120000,124000,414000
+3.5kW,3,Off Grid,2,Panasonic Japan,4,CanadainSolar Canada,3,LFP Lithium-ion,2,250000,1,250000,210000,1,62000,4,210000,248000,708000
+4kW,4,Off Grid,2,Panasonic Japan,4,CanadainSolar Canada,3,LFP Lithium-ion,2,410000,1,410000,290000,1,62000,4,290000,248000,948000
+5kW,5,Off Grid,2,Panasonic Japan,4,CanadainSolar Canada,3,LFP Lithium-ion,2,410000,1,410000,390000,1,62000,5,390000,310000,1110000
+7.5kW,6,Off Grid,2,Panasonic Japan,4,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,1,890000,500000,1,62000,7,500000,434000,1824000
+8kW,7,Off Grid,2,Panasonic Japan,4,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,1,890000,610000,1,62000,8,610000,496000,1996000
+10kW,8,Off Grid,2,Panasonic Japan,4,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,1,890000,710000,1,62000,10,710000,620000,2220000
+15kW,9,Off Grid,2,Panasonic Japan,4,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,2,1780000,500000,2,62000,15,1000000,930000,3710000
+20kW,10,Off Grid,2,Panasonic Japan,4,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,2,1780000,710000,2,62000,20,1420000,1240000,4440000
+30kW,11,Off Grid,2,Panasonic Japan,4,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,3,2670000,710000,3,62000,30,2130000,1860000,6660000
+40kW,12,Off Grid,2,Panasonic Japan,4,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,4,3560000,710000,4,62000,40,2840000,2480000,8880000
+50kW,13,Off Grid,2,Panasonic Japan,4,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,5,4450000,710000,5,62000,50,3550000,3100000,11100000
+60kW,14,Off Grid,2,Panasonic Japan,4,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,6,5340000,710000,6,62000,60,4260000,3720000,13320000
+1kW,1,Off Grid,2,Panasonic Japan,4,Growatt China,4,LFP Lithium-ion,2,80000,1,80000,66000,1,62000,1,66000,62000,208000
+2kW,2,Off Grid,2,Panasonic Japan,4,Growatt China,4,LFP Lithium-ion,2,170000,1,170000,95000,1,62000,2,95000,124000,389000
+3.5kW,3,Off Grid,2,Panasonic Japan,4,Growatt China,4,LFP Lithium-ion,2,250000,1,250000,198000,1,62000,4,198000,248000,696000
+4kW,4,Off Grid,2,Panasonic Japan,4,Growatt China,4,LFP Lithium-ion,2,410000,1,410000,310000,1,62000,4,310000,248000,968000
+5kW,5,Off Grid,2,Panasonic Japan,4,Growatt China,4,LFP Lithium-ion,2,410000,1,410000,390000,1,62000,5,390000,310000,1110000
+7.5kW,6,Off Grid,2,Panasonic Japan,4,Growatt China,4,LFP Lithium-ion,2,890000,1,890000,490000,1,62000,7,490000,434000,1814000
+8kW,7,Off Grid,2,Panasonic Japan,4,Growatt China,4,LFP Lithium-ion,2,890000,1,890000,520000,1,62000,8,520000,496000,1906000
+10kW,8,Off Grid,2,Panasonic Japan,4,Growatt China,4,LFP Lithium-ion,2,890000,1,890000,580000,1,62000,10,580000,620000,2090000
+15kW,9,Off Grid,2,Panasonic Japan,4,Growatt China,4,LFP Lithium-ion,2,890000,2,1780000,490000,2,62000,15,980000,930000,3690000
+20kW,10,Off Grid,2,Panasonic Japan,4,Growatt China,4,LFP Lithium-ion,2,890000,2,1780000,580000,2,62000,20,1160000,1240000,4180000
+30kW,11,Off Grid,2,Panasonic Japan,4,Growatt China,4,LFP Lithium-ion,2,890000,3,2670000,580000,3,62000,30,1740000,1860000,6270000
+40kW,12,Off Grid,2,Panasonic Japan,4,Growatt China,4,LFP Lithium-ion,2,890000,4,3560000,580000,4,62000,40,2320000,2480000,8360000
+50kW,13,Off Grid,2,Panasonic Japan,4,Growatt China,4,LFP Lithium-ion,2,890000,5,4450000,580000,5,62000,50,2900000,3100000,10450000
+60kW,14,Off Grid,2,Panasonic Japan,4,Growatt China,4,LFP Lithium-ion,2,890000,6,5340000,580000,6,62000,60,3480000,3720000,12540000
+1kW,1,Off Grid,2,JA Solar China,1,Goodwee China,1,Lead Acid,3,65000,1,65000,64000,1,42000,1,64000,42000,171000
+2kW,2,Off Grid,2,JA Solar China,1,Goodwee China,1,Lead Acid,3,120000,1,120000,100000,1,42000,2,100000,84000,304000
+3.5kW,3,Off Grid,2,JA Solar China,1,Goodwee China,1,Lead Acid,3,120000,2,240000,190000,1,42000,4,190000,168000,598000
+4kW,4,Off Grid,2,JA Solar China,1,Goodwee China,1,Lead Acid,3,120000,2,240000,280000,1,42000,4,280000,168000,688000
+5kW,5,Off Grid,2,JA Solar China,1,Goodwee China,1,Lead Acid,3,120000,3,360000,380000,1,42000,5,380000,210000,950000
+7.5kW,6,Off Grid,2,JA Solar China,1,Goodwee China,1,Lead Acid,3,120000,4,480000,490000,1,42000,7,490000,294000,1264000
+8kW,7,Off Grid,2,JA Solar China,1,Goodwee China,1,Lead Acid,3,120000,4,480000,500000,1,42000,8,500000,336000,1316000
+10kW,8,Off Grid,2,JA Solar China,1,Goodwee China,1,Lead Acid,3,120000,5,600000,580000,1,42000,10,580000,420000,1600000
+1kW,1,Off Grid,2,JA Solar China,1,SMA Germany ,2,Lead Acid,3,65000,1,65000,84000,1,42000,1,84000,42000,191000
+2kW,2,Off Grid,2,JA Solar China,1,SMA Germany ,2,Lead Acid,3,120000,1,120000,120000,1,42000,2,120000,84000,324000
+3.5kW,3,Off Grid,2,JA Solar China,1,SMA Germany ,2,Lead Acid,3,120000,2,240000,240000,1,42000,4,240000,168000,648000
+4kW,4,Off Grid,2,JA Solar China,1,SMA Germany ,2,Lead Acid,3,120000,2,240000,320000,1,42000,4,320000,168000,728000
+5kW,5,Off Grid,2,JA Solar China,1,SMA Germany ,2,Lead Acid,3,120000,3,360000,440000,1,42000,5,440000,210000,1010000
+7.5kW,6,Off Grid,2,JA Solar China,1,SMA Germany ,2,Lead Acid,3,120000,4,480000,520000,1,42000,7,520000,294000,1294000
+8kW,7,Off Grid,2,JA Solar China,1,SMA Germany ,2,Lead Acid,3,120000,4,480000,610000,1,42000,8,610000,336000,1426000
+10kW,8,Off Grid,2,JA Solar China,1,SMA Germany ,2,Lead Acid,3,120000,5,600000,710000,1,42000,10,710000,420000,1730000
+1kW,1,Off Grid,2,JA Solar China,1,CanadainSolar Canada,3,Lead Acid,3,65000,1,65000,88000,1,42000,1,88000,42000,195000
+2kW,2,Off Grid,2,JA Solar China,1,CanadainSolar Canada,3,Lead Acid,3,120000,1,120000,120000,1,42000,2,120000,84000,324000
+3.5kW,3,Off Grid,2,JA Solar China,1,CanadainSolar Canada,3,Lead Acid,3,120000,2,240000,210000,1,42000,4,210000,168000,618000
+4kW,4,Off Grid,2,JA Solar China,1,CanadainSolar Canada,3,Lead Acid,3,120000,2,240000,290000,1,42000,4,290000,168000,698000
+5kW,5,Off Grid,2,JA Solar China,1,CanadainSolar Canada,3,Lead Acid,3,120000,3,360000,390000,1,42000,5,390000,210000,960000
+7.5kW,6,Off Grid,2,JA Solar China,1,CanadainSolar Canada,3,Lead Acid,3,120000,4,480000,500000,1,42000,7,500000,294000,1274000
+8kW,7,Off Grid,2,JA Solar China,1,CanadainSolar Canada,3,Lead Acid,3,120000,4,480000,610000,1,42000,8,610000,336000,1426000
+10kW,8,Off Grid,2,JA Solar China,1,CanadainSolar Canada,3,Lead Acid,3,120000,5,600000,710000,1,42000,10,710000,420000,1730000
+1kW,1,Off Grid,2,JA Solar China,1,Growatt China,4,Lead Acid,3,65000,1,65000,66000,1,42000,1,66000,42000,173000
+2kW,2,Off Grid,2,JA Solar China,1,Growatt China,4,Lead Acid,3,120000,1,120000,95000,1,42000,2,95000,84000,299000
+3.5kW,3,Off Grid,2,JA Solar China,1,Growatt China,4,Lead Acid,3,120000,2,240000,198000,1,42000,4,198000,168000,606000
+4kW,4,Off Grid,2,JA Solar China,1,Growatt China,4,Lead Acid,3,120000,2,240000,310000,1,42000,4,310000,168000,718000
+5kW,5,Off Grid,2,JA Solar China,1,Growatt China,4,Lead Acid,3,120000,3,360000,390000,1,42000,5,390000,210000,960000
+7.5kW,6,Off Grid,2,JA Solar China,1,Growatt China,4,Lead Acid,3,120000,4,480000,490000,1,42000,7,490000,294000,1264000
+8kW,7,Off Grid,2,JA Solar China,1,Growatt China,4,Lead Acid,3,120000,4,480000,520000,1,42000,8,520000,336000,1336000
+10kW,8,Off Grid,2,JA Solar China,1,Growatt China,4,Lead Acid,3,120000,5,600000,580000,1,42000,10,580000,420000,1600000
+1kW,1,Off Grid,2,Jinko Solar China,2,Goodwee China,1,Lead Acid,3,65000,1,65000,64000,1,46000,1,64000,46000,175000
+2kW,2,Off Grid,2,Jinko Solar China,2,Goodwee China,1,Lead Acid,3,120000,1,120000,100000,1,46000,2,100000,92000,312000
+3.5kW,3,Off Grid,2,Jinko Solar China,2,Goodwee China,1,Lead Acid,3,120000,2,240000,190000,1,46000,4,190000,184000,614000
+4kW,4,Off Grid,2,Jinko Solar China,2,Goodwee China,1,Lead Acid,3,120000,2,240000,280000,1,46000,4,280000,184000,704000
+5kW,5,Off Grid,2,Jinko Solar China,2,Goodwee China,1,Lead Acid,3,120000,3,360000,380000,1,46000,5,380000,230000,970000
+7.5kW,6,Off Grid,2,Jinko Solar China,2,Goodwee China,1,Lead Acid,3,120000,4,480000,490000,1,46000,7,490000,322000,1292000
+8kW,7,Off Grid,2,Jinko Solar China,2,Goodwee China,1,Lead Acid,3,120000,4,480000,500000,1,46000,8,500000,368000,1348000
+10kW,8,Off Grid,2,Jinko Solar China,2,Goodwee China,1,Lead Acid,3,120000,5,600000,580000,1,46000,10,580000,460000,1640000
+1kW,1,Off Grid,2,Jinko Solar China,2,SMA Germany ,2,Lead Acid,3,65000,1,65000,84000,1,46000,1,84000,46000,195000
+2kW,2,Off Grid,2,Jinko Solar China,2,SMA Germany ,2,Lead Acid,3,120000,1,120000,120000,1,46000,2,120000,92000,332000
+3.5kW,3,Off Grid,2,Jinko Solar China,2,SMA Germany ,2,Lead Acid,3,120000,2,240000,240000,1,46000,4,240000,184000,664000
+4kW,4,Off Grid,2,Jinko Solar China,2,SMA Germany ,2,Lead Acid,3,120000,2,240000,320000,1,46000,4,320000,184000,744000
+5kW,5,Off Grid,2,Jinko Solar China,2,SMA Germany ,2,Lead Acid,3,120000,3,360000,440000,1,46000,5,440000,230000,1030000
+7.5kW,6,Off Grid,2,Jinko Solar China,2,SMA Germany ,2,Lead Acid,3,120000,4,480000,520000,1,46000,7,520000,322000,1322000
+8kW,7,Off Grid,2,Jinko Solar China,2,SMA Germany ,2,Lead Acid,3,120000,4,480000,610000,1,46000,8,610000,368000,1458000
+10kW,8,Off Grid,2,Jinko Solar China,2,SMA Germany ,2,Lead Acid,3,120000,5,600000,710000,1,46000,10,710000,460000,1770000
+1kW,1,Off Grid,2,Jinko Solar China,2,CanadainSolar Canada,3,Lead Acid,3,65000,1,65000,88000,1,46000,1,88000,46000,199000
+2kW,2,Off Grid,2,Jinko Solar China,2,CanadainSolar Canada,3,Lead Acid,3,120000,1,120000,120000,1,46000,2,120000,92000,332000
+3.5kW,3,Off Grid,2,Jinko Solar China,2,CanadainSolar Canada,3,Lead Acid,3,120000,2,240000,210000,1,46000,4,210000,184000,634000
+4kW,4,Off Grid,2,Jinko Solar China,2,CanadainSolar Canada,3,Lead Acid,3,120000,2,240000,290000,1,46000,4,290000,184000,714000
+5kW,5,Off Grid,2,Jinko Solar China,2,CanadainSolar Canada,3,Lead Acid,3,120000,3,360000,390000,1,46000,5,390000,230000,980000
+7.5kW,6,Off Grid,2,Jinko Solar China,2,CanadainSolar Canada,3,Lead Acid,3,120000,4,480000,500000,1,46000,7,500000,322000,1302000
+8kW,7,Off Grid,2,Jinko Solar China,2,CanadainSolar Canada,3,Lead Acid,3,120000,4,480000,610000,1,46000,8,610000,368000,1458000
+10kW,8,Off Grid,2,Jinko Solar China,2,CanadainSolar Canada,3,Lead Acid,3,120000,5,600000,710000,1,46000,10,710000,460000,1770000
+1kW,1,Off Grid,2,Jinko Solar China,2,Growatt China,4,Lead Acid,3,65000,1,65000,66000,1,46000,1,66000,46000,177000
+2kW,2,Off Grid,2,Jinko Solar China,2,Growatt China,4,Lead Acid,3,120000,1,120000,95000,1,46000,2,95000,92000,307000
+3.5kW,3,Off Grid,2,Jinko Solar China,2,Growatt China,4,Lead Acid,3,120000,2,240000,198000,1,46000,4,198000,184000,622000
+4kW,4,Off Grid,2,Jinko Solar China,2,Growatt China,4,Lead Acid,3,120000,2,240000,310000,1,46000,4,310000,184000,734000
+5kW,5,Off Grid,2,Jinko Solar China,2,Growatt China,4,Lead Acid,3,120000,3,360000,390000,1,46000,5,390000,230000,980000
+7.5kW,6,Off Grid,2,Jinko Solar China,2,Growatt China,4,Lead Acid,3,120000,4,480000,490000,1,46000,7,490000,322000,1292000
+8kW,7,Off Grid,2,Jinko Solar China,2,Growatt China,4,Lead Acid,3,120000,4,480000,520000,1,46000,8,520000,368000,1368000
+10kW,8,Off Grid,2,Jinko Solar China,2,Growatt China,4,Lead Acid,3,120000,5,600000,580000,1,46000,10,580000,460000,1640000
+1kW,1,Off Grid,2,Canadian Solar Canada,3,Goodwee China,1,Lead Acid,3,65000,1,65000,64000,1,54000,1,64000,54000,183000
+2kW,2,Off Grid,2,Canadian Solar Canada,3,Goodwee China,1,Lead Acid,3,120000,1,120000,100000,1,54000,2,100000,108000,328000
+3.5kW,3,Off Grid,2,Canadian Solar Canada,3,Goodwee China,1,Lead Acid,3,120000,2,240000,190000,1,54000,4,190000,216000,646000
+4kW,4,Off Grid,2,Canadian Solar Canada,3,Goodwee China,1,Lead Acid,3,120000,2,240000,280000,1,54000,4,280000,216000,736000
+5kW,5,Off Grid,2,Canadian Solar Canada,3,Goodwee China,1,Lead Acid,3,120000,3,360000,380000,1,54000,5,380000,270000,1010000
+7.5kW,6,Off Grid,2,Canadian Solar Canada,3,Goodwee China,1,Lead Acid,3,120000,4,480000,490000,1,54000,7,490000,378000,1348000
+8kW,7,Off Grid,2,Canadian Solar Canada,3,Goodwee China,1,Lead Acid,3,120000,4,480000,500000,1,54000,8,500000,432000,1412000
+10kW,8,Off Grid,2,Canadian Solar Canada,3,Goodwee China,1,Lead Acid,3,120000,5,600000,580000,1,54000,10,580000,540000,1720000
+1kW,1,Off Grid,2,Canadian Solar Canada,3,SMA Germany ,2,Lead Acid,3,65000,1,65000,84000,1,54000,1,84000,54000,203000
+2kW,2,Off Grid,2,Canadian Solar Canada,3,SMA Germany ,2,Lead Acid,3,120000,1,120000,120000,1,54000,2,120000,108000,348000
+3.5kW,3,Off Grid,2,Canadian Solar Canada,3,SMA Germany ,2,Lead Acid,3,120000,2,240000,240000,1,54000,4,240000,216000,696000
+4kW,4,Off Grid,2,Canadian Solar Canada,3,SMA Germany ,2,Lead Acid,3,120000,2,240000,320000,1,54000,4,320000,216000,776000
+5kW,5,Off Grid,2,Canadian Solar Canada,3,SMA Germany ,2,Lead Acid,3,120000,3,360000,440000,1,54000,5,440000,270000,1070000
+7.5kW,6,Off Grid,2,Canadian Solar Canada,3,SMA Germany ,2,Lead Acid,3,120000,4,480000,520000,1,54000,7,520000,378000,1378000
+8kW,7,Off Grid,2,Canadian Solar Canada,3,SMA Germany ,2,Lead Acid,3,120000,4,480000,610000,1,54000,8,610000,432000,1522000
+10kW,8,Off Grid,2,Canadian Solar Canada,3,SMA Germany ,2,Lead Acid,3,120000,5,600000,710000,1,54000,10,710000,540000,1850000
+1kW,1,Off Grid,2,Canadian Solar Canada,3,CanadainSolar Canada,3,Lead Acid,3,65000,1,65000,88000,1,54000,1,88000,54000,207000
+2kW,2,Off Grid,2,Canadian Solar Canada,3,CanadainSolar Canada,3,Lead Acid,3,120000,1,120000,120000,1,54000,2,120000,108000,348000
+3.5kW,3,Off Grid,2,Canadian Solar Canada,3,CanadainSolar Canada,3,Lead Acid,3,120000,2,240000,210000,1,54000,4,210000,216000,666000
+4kW,4,Off Grid,2,Canadian Solar Canada,3,CanadainSolar Canada,3,Lead Acid,3,120000,2,240000,290000,1,54000,4,290000,216000,746000
+5kW,5,Off Grid,2,Canadian Solar Canada,3,CanadainSolar Canada,3,Lead Acid,3,120000,3,360000,390000,1,54000,5,390000,270000,1020000
+7.5kW,6,Off Grid,2,Canadian Solar Canada,3,CanadainSolar Canada,3,Lead Acid,3,120000,4,480000,500000,1,54000,7,500000,378000,1358000
+8kW,7,Off Grid,2,Canadian Solar Canada,3,CanadainSolar Canada,3,Lead Acid,3,120000,4,480000,610000,1,54000,8,610000,432000,1522000
+10kW,8,Off Grid,2,Canadian Solar Canada,3,CanadainSolar Canada,3,Lead Acid,3,120000,5,600000,710000,1,54000,10,710000,540000,1850000
+1kW,1,Off Grid,2,Canadian Solar Canada,3,Growatt China,4,Lead Acid,3,65000,1,65000,66000,1,54000,1,66000,54000,185000
+2kW,2,Off Grid,2,Canadian Solar Canada,3,Growatt China,4,Lead Acid,3,120000,1,120000,95000,1,54000,2,95000,108000,323000
+3.5kW,3,Off Grid,2,Canadian Solar Canada,3,Growatt China,4,Lead Acid,3,120000,2,240000,198000,1,54000,4,198000,216000,654000
+4kW,4,Off Grid,2,Canadian Solar Canada,3,Growatt China,4,Lead Acid,3,120000,2,240000,310000,1,54000,4,310000,216000,766000
+5kW,5,Off Grid,2,Canadian Solar Canada,3,Growatt China,4,Lead Acid,3,120000,3,360000,390000,1,54000,5,390000,270000,1020000
+7.5kW,6,Off Grid,2,Canadian Solar Canada,3,Growatt China,4,Lead Acid,3,120000,4,480000,490000,1,54000,7,490000,378000,1348000
+8kW,7,Off Grid,2,Canadian Solar Canada,3,Growatt China,4,Lead Acid,3,120000,4,480000,520000,1,54000,8,520000,432000,1432000
+10kW,8,Off Grid,2,Canadian Solar Canada,3,Growatt China,4,Lead Acid,3,120000,5,600000,580000,1,54000,10,580000,540000,1720000
+1kW,1,Off Grid,2,Panasonic Japan,4,Goodwee China,1,Lead Acid,3,65000,1,65000,64000,1,62000,1,64000,62000,191000
+2kW,2,Off Grid,2,Panasonic Japan,4,Goodwee China,1,Lead Acid,3,120000,1,120000,100000,1,62000,2,100000,124000,344000
+3.5kW,3,Off Grid,2,Panasonic Japan,4,Goodwee China,1,Lead Acid,3,120000,2,240000,190000,1,62000,4,190000,248000,678000
+4kW,4,Off Grid,2,Panasonic Japan,4,Goodwee China,1,Lead Acid,3,120000,2,240000,280000,1,62000,4,280000,248000,768000
+5kW,5,Off Grid,2,Panasonic Japan,4,Goodwee China,1,Lead Acid,3,120000,3,360000,380000,1,62000,5,380000,310000,1050000
+7.5kW,6,Off Grid,2,Panasonic Japan,4,Goodwee China,1,Lead Acid,3,120000,4,480000,490000,1,62000,7,490000,434000,1404000
+8kW,7,Off Grid,2,Panasonic Japan,4,Goodwee China,1,Lead Acid,3,120000,4,480000,500000,1,62000,8,500000,496000,1476000
+10kW,8,Off Grid,2,Panasonic Japan,4,Goodwee China,1,Lead Acid,3,120000,5,600000,580000,1,62000,10,580000,620000,1800000
+1kW,1,Off Grid,2,Panasonic Japan,4,SMA Germany ,2,Lead Acid,3,65000,1,65000,84000,1,62000,1,84000,62000,211000
+2kW,2,Off Grid,2,Panasonic Japan,4,SMA Germany ,2,Lead Acid,3,120000,1,120000,120000,1,62000,2,120000,124000,364000
+3.5kW,3,Off Grid,2,Panasonic Japan,4,SMA Germany ,2,Lead Acid,3,120000,2,240000,240000,1,62000,4,240000,248000,728000
+4kW,4,Off Grid,2,Panasonic Japan,4,SMA Germany ,2,Lead Acid,3,120000,2,240000,320000,1,62000,4,320000,248000,808000
+5kW,5,Off Grid,2,Panasonic Japan,4,SMA Germany ,2,Lead Acid,3,120000,3,360000,440000,1,62000,5,440000,310000,1110000
+7.5kW,6,Off Grid,2,Panasonic Japan,4,SMA Germany ,2,Lead Acid,3,120000,4,480000,520000,1,62000,7,520000,434000,1434000
+8kW,7,Off Grid,2,Panasonic Japan,4,SMA Germany ,2,Lead Acid,3,120000,4,480000,610000,1,62000,8,610000,496000,1586000
+10kW,8,Off Grid,2,Panasonic Japan,4,SMA Germany ,2,Lead Acid,3,120000,5,600000,710000,1,62000,10,710000,620000,1930000
+1kW,1,Off Grid,2,Panasonic Japan,4,CanadainSolar Canada,3,Lead Acid,3,65000,1,65000,88000,1,62000,1,88000,62000,215000
+2kW,2,Off Grid,2,Panasonic Japan,4,CanadainSolar Canada,3,Lead Acid,3,120000,1,120000,120000,1,62000,2,120000,124000,364000
+3.5kW,3,Off Grid,2,Panasonic Japan,4,CanadainSolar Canada,3,Lead Acid,3,120000,2,240000,210000,1,62000,4,210000,248000,698000
+4kW,4,Off Grid,2,Panasonic Japan,4,CanadainSolar Canada,3,Lead Acid,3,120000,2,240000,290000,1,62000,4,290000,248000,778000
+5kW,5,Off Grid,2,Panasonic Japan,4,CanadainSolar Canada,3,Lead Acid,3,120000,3,360000,390000,1,62000,5,390000,310000,1060000
+7.5kW,6,Off Grid,2,Panasonic Japan,4,CanadainSolar Canada,3,Lead Acid,3,120000,4,480000,500000,1,62000,7,500000,434000,1414000
+8kW,7,Off Grid,2,Panasonic Japan,4,CanadainSolar Canada,3,Lead Acid,3,120000,4,480000,610000,1,62000,8,610000,496000,1586000
+10kW,8,Off Grid,2,Panasonic Japan,4,CanadainSolar Canada,3,Lead Acid,3,120000,5,600000,710000,1,62000,10,710000,620000,1930000
+1kW,1,Off Grid,2,Panasonic Japan,4,Growatt China,4,Lead Acid,3,65000,1,65000,66000,1,62000,1,66000,62000,193000
+2kW,2,Off Grid,2,Panasonic Japan,4,Growatt China,4,Lead Acid,3,120000,1,120000,95000,1,62000,2,95000,124000,339000
+3.5kW,3,Off Grid,2,Panasonic Japan,4,Growatt China,4,Lead Acid,3,120000,2,240000,198000,1,62000,4,198000,248000,686000
+4kW,4,Off Grid,2,Panasonic Japan,4,Growatt China,4,Lead Acid,3,120000,2,240000,310000,1,62000,4,310000,248000,798000
+5kW,5,Off Grid,2,Panasonic Japan,4,Growatt China,4,Lead Acid,3,120000,3,360000,390000,1,62000,5,390000,310000,1060000
+7.5kW,6,Off Grid,2,Panasonic Japan,4,Growatt China,4,Lead Acid,3,120000,4,480000,490000,1,62000,7,490000,434000,1404000
+8kW,7,Off Grid,2,Panasonic Japan,4,Growatt China,4,Lead Acid,3,120000,4,480000,520000,1,62000,8,520000,496000,1496000
+10kW,8,Off Grid,2,Panasonic Japan,4,Growatt China,4,Lead Acid,3,120000,5,600000,580000,1,62000,10,580000,620000,1800000
+1kW,1,Hybrid,3,JA Solar China,1,Goodwee China,1,LFP Lithium-ion,2,80000,1,80000,111000,1,42000,1,111000,42000,233000
+2kW,2,Hybrid,3,JA Solar China,1,Goodwee China,1,LFP Lithium-ion,2,170000,1,170000,165000,1,42000,2,165000,84000,419000
+3.5kW,3,Hybrid,3,JA Solar China,1,Goodwee China,1,LFP Lithium-ion,2,250000,1,250000,315000,1,42000,4,315000,168000,733000
+4kW,4,Hybrid,3,JA Solar China,1,Goodwee China,1,LFP Lithium-ion,2,410000,1,410000,450000,1,42000,4,450000,168000,1028000
+5kW,5,Hybrid,3,JA Solar China,1,Goodwee China,1,LFP Lithium-ion,2,410000,1,410000,615000,1,42000,5,615000,210000,1235000
+7.5kW,6,Hybrid,3,JA Solar China,1,Goodwee China,1,LFP Lithium-ion,2,890000,1,890000,780000,1,42000,7,780000,294000,1964000
+8kW,7,Hybrid,3,JA Solar China,1,Goodwee China,1,LFP Lithium-ion,2,890000,1,890000,840000,1,42000,8,840000,336000,2066000
+10kW,8,Hybrid,3,JA Solar China,1,Goodwee China,1,LFP Lithium-ion,2,890000,1,890000,930000,1,42000,10,930000,420000,2240000
+15kW,9,Hybrid,3,JA Solar China,1,Goodwee China,1,LFP Lithium-ion,2,890000,2,1780000,780000,2,42000,15,1560000,630000,3970000
+20kW,10,Hybrid,3,JA Solar China,1,Goodwee China,1,LFP Lithium-ion,2,890000,2,1780000,930000,2,42000,20,1860000,840000,4480000
+30kW,11,Hybrid,3,JA Solar China,1,Goodwee China,1,LFP Lithium-ion,2,890000,3,2670000,930000,3,42000,30,2790000,1260000,6720000
+40kW,12,Hybrid,3,JA Solar China,1,Goodwee China,1,LFP Lithium-ion,2,890000,4,3560000,930000,4,42000,40,3720000,1680000,8960000
+50kW,13,Hybrid,3,JA Solar China,1,Goodwee China,1,LFP Lithium-ion,2,890000,5,4450000,930000,5,42000,50,4650000,2100000,11200000
+60kW,14,Hybrid,3,JA Solar China,1,Goodwee China,1,LFP Lithium-ion,2,890000,6,5340000,930000,6,42000,60,5580000,2520000,13440000
+1kW,1,Hybrid,3,JA Solar China,1,SMA Germany ,2,LFP Lithium-ion,2,80000,1,80000,141000,1,42000,1,141000,42000,263000
+2kW,2,Hybrid,3,JA Solar China,1,SMA Germany ,2,LFP Lithium-ion,2,170000,1,170000,210000,1,42000,2,210000,84000,464000
+3.5kW,3,Hybrid,3,JA Solar China,1,SMA Germany ,2,LFP Lithium-ion,2,250000,1,250000,390000,1,42000,4,390000,168000,808000
+4kW,4,Hybrid,3,JA Solar China,1,SMA Germany ,2,LFP Lithium-ion,2,410000,1,410000,555000,1,42000,4,555000,168000,1133000
+5kW,5,Hybrid,3,JA Solar China,1,SMA Germany ,2,LFP Lithium-ion,2,410000,1,410000,735000,1,42000,5,735000,210000,1355000
+7.5kW,6,Hybrid,3,JA Solar China,1,SMA Germany ,2,LFP Lithium-ion,2,890000,1,890000,870000,1,42000,7,870000,294000,2054000
+8kW,7,Hybrid,3,JA Solar China,1,SMA Germany ,2,LFP Lithium-ion,2,890000,1,890000,975000,1,42000,8,975000,336000,2201000
+10kW,8,Hybrid,3,JA Solar China,1,SMA Germany ,2,LFP Lithium-ion,2,890000,1,890000,1170000,1,42000,10,1170000,420000,2480000
+15kW,9,Hybrid,3,JA Solar China,1,SMA Germany ,2,LFP Lithium-ion,2,890000,2,1780000,870000,2,42000,15,1740000,630000,4150000
+20kW,10,Hybrid,3,JA Solar China,1,SMA Germany ,2,LFP Lithium-ion,2,890000,2,1780000,1170000,2,42000,20,2340000,840000,4960000
+30kW,11,Hybrid,3,JA Solar China,1,SMA Germany ,2,LFP Lithium-ion,2,890000,3,2670000,1170000,3,42000,30,3510000,1260000,7440000
+40kW,12,Hybrid,3,JA Solar China,1,SMA Germany ,2,LFP Lithium-ion,2,890000,4,3560000,1170000,4,42000,40,4680000,1680000,9920000
+50kW,13,Hybrid,3,JA Solar China,1,SMA Germany ,2,LFP Lithium-ion,2,890000,5,4450000,1170000,5,42000,50,5850000,2100000,12400000
+60kW,14,Hybrid,3,JA Solar China,1,SMA Germany ,2,LFP Lithium-ion,2,890000,6,5340000,1170000,6,42000,60,7020000,2520000,14880000
+1kW,1,Hybrid,3,JA Solar China,1,CanadainSolar Canada,3,LFP Lithium-ion,2,80000,1,80000,136500,1,42000,1,136500,42000,258500
+2kW,2,Hybrid,3,JA Solar China,1,CanadainSolar Canada,3,LFP Lithium-ion,2,170000,1,170000,195000,1,42000,2,195000,84000,449000
+3.5kW,3,Hybrid,3,JA Solar China,1,CanadainSolar Canada,3,LFP Lithium-ion,2,250000,1,250000,330000,1,42000,4,330000,168000,748000
+4kW,4,Hybrid,3,JA Solar China,1,CanadainSolar Canada,3,LFP Lithium-ion,2,410000,1,410000,465000,1,42000,4,465000,168000,1043000
+5kW,5,Hybrid,3,JA Solar China,1,CanadainSolar Canada,3,LFP Lithium-ion,2,410000,1,410000,615000,1,42000,5,615000,210000,1235000
+7.5kW,6,Hybrid,3,JA Solar China,1,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,1,890000,810000,1,42000,7,810000,294000,1994000
+8kW,7,Hybrid,3,JA Solar China,1,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,1,890000,960000,1,42000,8,960000,336000,2186000
+10kW,8,Hybrid,3,JA Solar China,1,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,1,890000,1140000,1,42000,10,1140000,420000,2450000
+15kW,9,Hybrid,3,JA Solar China,1,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,2,1780000,810000,2,42000,15,1620000,630000,4030000
+20kW,10,Hybrid,3,JA Solar China,1,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,2,1780000,1140000,2,42000,20,2280000,840000,4900000
+30kW,11,Hybrid,3,JA Solar China,1,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,3,2670000,1140000,3,42000,30,3420000,1260000,7350000
+40kW,12,Hybrid,3,JA Solar China,1,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,4,3560000,1140000,4,42000,40,4560000,1680000,9800000
+50kW,13,Hybrid,3,JA Solar China,1,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,5,4450000,1140000,5,42000,50,5700000,2100000,12250000
+60kW,14,Hybrid,3,JA Solar China,1,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,6,5340000,1140000,6,42000,60,6840000,2520000,14700000
+1kW,1,Hybrid,3,JA Solar China,1,Growatt China,4,LFP Lithium-ion,2,80000,1,80000,109500,1,42000,1,109500,42000,231500
+2kW,2,Hybrid,3,JA Solar China,1,Growatt China,4,LFP Lithium-ion,2,170000,1,170000,157500,1,42000,2,157500,84000,411500
+3.5kW,3,Hybrid,3,JA Solar China,1,Growatt China,4,LFP Lithium-ion,2,250000,1,250000,324000,1,42000,4,324000,168000,742000
+4kW,4,Hybrid,3,JA Solar China,1,Growatt China,4,LFP Lithium-ion,2,410000,1,410000,510000,1,42000,4,510000,168000,1088000
+5kW,5,Hybrid,3,JA Solar China,1,Growatt China,4,LFP Lithium-ion,2,410000,1,410000,630000,1,42000,5,630000,210000,1250000
+7.5kW,6,Hybrid,3,JA Solar China,1,Growatt China,4,LFP Lithium-ion,2,890000,1,890000,810000,1,42000,7,810000,294000,1994000
+8kW,7,Hybrid,3,JA Solar China,1,Growatt China,4,LFP Lithium-ion,2,890000,1,890000,870000,1,42000,8,870000,336000,2096000
+10kW,8,Hybrid,3,JA Solar China,1,Growatt China,4,LFP Lithium-ion,2,890000,1,890000,945000,1,42000,10,945000,420000,2255000
+15kW,9,Hybrid,3,JA Solar China,1,Growatt China,4,LFP Lithium-ion,2,890000,2,1780000,870000,2,42000,15,1740000,630000,4150000
+20kW,10,Hybrid,3,JA Solar China,1,Growatt China,4,LFP Lithium-ion,2,890000,2,1780000,945000,2,42000,20,1890000,840000,4510000
+30kW,11,Hybrid,3,JA Solar China,1,Growatt China,4,LFP Lithium-ion,2,890000,3,2670000,945000,3,42000,30,2835000,1260000,6765000
+40kW,12,Hybrid,3,JA Solar China,1,Growatt China,4,LFP Lithium-ion,2,890000,4,3560000,945000,4,42000,40,3780000,1680000,9020000
+50kW,13,Hybrid,3,JA Solar China,1,Growatt China,4,LFP Lithium-ion,2,890000,5,4450000,945000,5,42000,50,4725000,2100000,11275000
+60kW,14,Hybrid,3,JA Solar China,1,Growatt China,4,LFP Lithium-ion,2,890000,6,5340000,945000,6,42000,60,5670000,2520000,13530000
+1kW,1,Hybrid,3,Jinko Solar China,2,Goodwee China,1,LFP Lithium-ion,2,80000,1,80000,111000,1,46000,1,111000,46000,237000
+2kW,2,Hybrid,3,Jinko Solar China,2,Goodwee China,1,LFP Lithium-ion,2,170000,1,170000,165000,1,46000,2,165000,92000,427000
+3.5kW,3,Hybrid,3,Jinko Solar China,2,Goodwee China,1,LFP Lithium-ion,2,250000,1,250000,315000,1,46000,4,315000,184000,749000
+4kW,4,Hybrid,3,Jinko Solar China,2,Goodwee China,1,LFP Lithium-ion,2,410000,1,410000,450000,1,46000,4,450000,184000,1044000
+5kW,5,Hybrid,3,Jinko Solar China,2,Goodwee China,1,LFP Lithium-ion,2,410000,1,410000,615000,1,46000,5,615000,230000,1255000
+7.5kW,6,Hybrid,3,Jinko Solar China,2,Goodwee China,1,LFP Lithium-ion,2,890000,1,890000,780000,1,46000,7,780000,322000,1992000
+8kW,7,Hybrid,3,Jinko Solar China,2,Goodwee China,1,LFP Lithium-ion,2,890000,1,890000,840000,1,46000,8,840000,368000,2098000
+10kW,8,Hybrid,3,Jinko Solar China,2,Goodwee China,1,LFP Lithium-ion,2,890000,1,890000,930000,1,46000,10,930000,460000,2280000
+15kW,9,Hybrid,3,Jinko Solar China,2,Goodwee China,1,LFP Lithium-ion,2,890000,2,1780000,780000,2,46000,15,1560000,690000,4030000
+20kW,10,Hybrid,3,Jinko Solar China,2,Goodwee China,1,LFP Lithium-ion,2,890000,2,1780000,930000,2,46000,20,1860000,920000,4560000
+30kW,11,Hybrid,3,Jinko Solar China,2,Goodwee China,1,LFP Lithium-ion,2,890000,3,2670000,930000,3,46000,30,2790000,1380000,6840000
+40kW,12,Hybrid,3,Jinko Solar China,2,Goodwee China,1,LFP Lithium-ion,2,890000,4,3560000,930000,4,46000,40,3720000,1840000,9120000
+50kW,13,Hybrid,3,Jinko Solar China,2,Goodwee China,1,LFP Lithium-ion,2,890000,5,4450000,930000,5,46000,50,4650000,2300000,11400000
+60kW,14,Hybrid,3,Jinko Solar China,2,Goodwee China,1,LFP Lithium-ion,2,890000,6,5340000,930000,6,46000,60,5580000,2760000,13680000
+1kW,1,Hybrid,3,Jinko Solar China,2,SMA Germany ,2,LFP Lithium-ion,2,80000,1,80000,141000,1,46000,1,141000,46000,267000
+2kW,2,Hybrid,3,Jinko Solar China,2,SMA Germany ,2,LFP Lithium-ion,2,170000,1,170000,210000,1,46000,2,210000,92000,472000
+3.5kW,3,Hybrid,3,Jinko Solar China,2,SMA Germany ,2,LFP Lithium-ion,2,250000,1,250000,390000,1,46000,4,390000,184000,824000
+4kW,4,Hybrid,3,Jinko Solar China,2,SMA Germany ,2,LFP Lithium-ion,2,410000,1,410000,555000,1,46000,4,555000,184000,1149000
+5kW,5,Hybrid,3,Jinko Solar China,2,SMA Germany ,2,LFP Lithium-ion,2,410000,1,410000,735000,1,46000,5,735000,230000,1375000
+7.5kW,6,Hybrid,3,Jinko Solar China,2,SMA Germany ,2,LFP Lithium-ion,2,890000,1,890000,870000,1,46000,7,870000,322000,2082000
+8kW,7,Hybrid,3,Jinko Solar China,2,SMA Germany ,2,LFP Lithium-ion,2,890000,1,890000,975000,1,46000,8,975000,368000,2233000
+10kW,8,Hybrid,3,Jinko Solar China,2,SMA Germany ,2,LFP Lithium-ion,2,890000,1,890000,1170000,1,46000,10,1170000,460000,2520000
+15kW,9,Hybrid,3,Jinko Solar China,2,SMA Germany ,2,LFP Lithium-ion,2,890000,2,1780000,870000,2,46000,15,1740000,690000,4210000
+20kW,10,Hybrid,3,Jinko Solar China,2,SMA Germany ,2,LFP Lithium-ion,2,890000,2,1780000,1170000,2,46000,20,2340000,920000,5040000
+30kW,11,Hybrid,3,Jinko Solar China,2,SMA Germany ,2,LFP Lithium-ion,2,890000,3,2670000,1170000,3,46000,30,3510000,1380000,7560000
+40kW,12,Hybrid,3,Jinko Solar China,2,SMA Germany ,2,LFP Lithium-ion,2,890000,4,3560000,1170000,4,46000,40,4680000,1840000,10080000
+50kW,13,Hybrid,3,Jinko Solar China,2,SMA Germany ,2,LFP Lithium-ion,2,890000,5,4450000,1170000,5,46000,50,5850000,2300000,12600000
+60kW,14,Hybrid,3,Jinko Solar China,2,SMA Germany ,2,LFP Lithium-ion,2,890000,6,5340000,1170000,6,46000,60,7020000,2760000,15120000
+1kW,1,Hybrid,3,Jinko Solar China,2,CanadainSolar Canada,3,LFP Lithium-ion,2,80000,1,80000,136500,1,46000,1,136500,46000,262500
+2kW,2,Hybrid,3,Jinko Solar China,2,CanadainSolar Canada,3,LFP Lithium-ion,2,170000,1,170000,195000,1,46000,2,195000,92000,457000
+3.5kW,3,Hybrid,3,Jinko Solar China,2,CanadainSolar Canada,3,LFP Lithium-ion,2,250000,1,250000,330000,1,46000,4,330000,184000,764000
+4kW,4,Hybrid,3,Jinko Solar China,2,CanadainSolar Canada,3,LFP Lithium-ion,2,410000,1,410000,465000,1,46000,4,465000,184000,1059000
+5kW,5,Hybrid,3,Jinko Solar China,2,CanadainSolar Canada,3,LFP Lithium-ion,2,410000,1,410000,615000,1,46000,5,615000,230000,1255000
+7.5kW,6,Hybrid,3,Jinko Solar China,2,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,1,890000,810000,1,46000,7,810000,322000,2022000
+8kW,7,Hybrid,3,Jinko Solar China,2,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,1,890000,960000,1,46000,8,960000,368000,2218000
+10kW,8,Hybrid,3,Jinko Solar China,2,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,1,890000,1140000,1,46000,10,1140000,460000,2490000
+15kW,9,Hybrid,3,Jinko Solar China,2,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,2,1780000,810000,2,46000,15,1620000,690000,4090000
+20kW,10,Hybrid,3,Jinko Solar China,2,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,2,1780000,1140000,2,46000,20,2280000,920000,4980000
+30kW,11,Hybrid,3,Jinko Solar China,2,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,3,2670000,1140000,3,46000,30,3420000,1380000,7470000
+40kW,12,Hybrid,3,Jinko Solar China,2,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,4,3560000,1140000,4,46000,40,4560000,1840000,9960000
+50kW,13,Hybrid,3,Jinko Solar China,2,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,5,4450000,1140000,5,46000,50,5700000,2300000,12450000
+60kW,14,Hybrid,3,Jinko Solar China,2,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,6,5340000,1140000,6,46000,60,6840000,2760000,14940000
+1kW,1,Hybrid,3,Jinko Solar China,2,Growatt China,4,LFP Lithium-ion,2,80000,1,80000,109500,1,46000,1,109500,46000,235500
+2kW,2,Hybrid,3,Jinko Solar China,2,Growatt China,4,LFP Lithium-ion,2,170000,1,170000,157500,1,46000,2,157500,92000,419500
+3.5kW,3,Hybrid,3,Jinko Solar China,2,Growatt China,4,LFP Lithium-ion,2,250000,1,250000,324000,1,46000,4,324000,184000,758000
+4kW,4,Hybrid,3,Jinko Solar China,2,Growatt China,4,LFP Lithium-ion,2,410000,1,410000,510000,1,46000,4,510000,184000,1104000
+5kW,5,Hybrid,3,Jinko Solar China,2,Growatt China,4,LFP Lithium-ion,2,410000,1,410000,630000,1,46000,5,630000,230000,1270000
+7.5kW,6,Hybrid,3,Jinko Solar China,2,Growatt China,4,LFP Lithium-ion,2,890000,1,890000,810000,1,46000,7,810000,322000,2022000
+8kW,7,Hybrid,3,Jinko Solar China,2,Growatt China,4,LFP Lithium-ion,2,890000,1,890000,870000,1,46000,8,870000,368000,2128000
+10kW,8,Hybrid,3,Jinko Solar China,2,Growatt China,4,LFP Lithium-ion,2,890000,1,890000,945000,1,46000,10,945000,460000,2295000
+15kW,9,Hybrid,3,Jinko Solar China,2,Growatt China,4,LFP Lithium-ion,2,890000,2,1780000,870000,2,46000,15,1740000,690000,4210000
+20kW,10,Hybrid,3,Jinko Solar China,2,Growatt China,4,LFP Lithium-ion,2,890000,2,1780000,945000,2,46000,20,1890000,920000,4590000
+30kW,11,Hybrid,3,Jinko Solar China,2,Growatt China,4,LFP Lithium-ion,2,890000,3,2670000,945000,3,46000,30,2835000,1380000,6885000
+40kW,12,Hybrid,3,Jinko Solar China,2,Growatt China,4,LFP Lithium-ion,2,890000,4,3560000,945000,4,46000,40,3780000,1840000,9180000
+50kW,13,Hybrid,3,Jinko Solar China,2,Growatt China,4,LFP Lithium-ion,2,890000,5,4450000,945000,5,46000,50,4725000,2300000,11475000
+60kW,14,Hybrid,3,Jinko Solar China,2,Growatt China,4,LFP Lithium-ion,2,890000,6,5340000,945000,6,46000,60,5670000,2760000,13770000
+1kW,1,Hybrid,3,Canadian Solar Canada,3,Goodwee China,1,LFP Lithium-ion,2,80000,1,80000,111000,1,54000,1,111000,54000,245000
+2kW,2,Hybrid,3,Canadian Solar Canada,3,Goodwee China,1,LFP Lithium-ion,2,170000,1,170000,165000,1,54000,2,165000,108000,443000
+3.5kW,3,Hybrid,3,Canadian Solar Canada,3,Goodwee China,1,LFP Lithium-ion,2,250000,1,250000,315000,1,54000,4,315000,216000,781000
+4kW,4,Hybrid,3,Canadian Solar Canada,3,Goodwee China,1,LFP Lithium-ion,2,410000,1,410000,450000,1,54000,4,450000,216000,1076000
+5kW,5,Hybrid,3,Canadian Solar Canada,3,Goodwee China,1,LFP Lithium-ion,2,410000,1,410000,615000,1,54000,5,615000,270000,1295000
+7.5kW,6,Hybrid,3,Canadian Solar Canada,3,Goodwee China,1,LFP Lithium-ion,2,890000,1,890000,780000,1,54000,7,780000,378000,2048000
+8kW,7,Hybrid,3,Canadian Solar Canada,3,Goodwee China,1,LFP Lithium-ion,2,890000,1,890000,840000,1,54000,8,840000,432000,2162000
+10kW,8,Hybrid,3,Canadian Solar Canada,3,Goodwee China,1,LFP Lithium-ion,2,890000,1,890000,930000,1,54000,10,930000,540000,2360000
+15kW,9,Hybrid,3,Canadian Solar Canada,3,Goodwee China,1,LFP Lithium-ion,2,890000,2,1780000,780000,2,54000,15,1560000,810000,4150000
+20kW,10,Hybrid,3,Canadian Solar Canada,3,Goodwee China,1,LFP Lithium-ion,2,890000,2,1780000,930000,2,54000,20,1860000,1080000,4720000
+30kW,11,Hybrid,3,Canadian Solar Canada,3,Goodwee China,1,LFP Lithium-ion,2,890000,3,2670000,930000,3,54000,30,2790000,1620000,7080000
+40kW,12,Hybrid,3,Canadian Solar Canada,3,Goodwee China,1,LFP Lithium-ion,2,890000,4,3560000,930000,4,54000,40,3720000,2160000,9440000
+50kW,13,Hybrid,3,Canadian Solar Canada,3,Goodwee China,1,LFP Lithium-ion,2,890000,5,4450000,930000,5,54000,50,4650000,2700000,11800000
+60kW,14,Hybrid,3,Canadian Solar Canada,3,Goodwee China,1,LFP Lithium-ion,2,890000,6,5340000,930000,6,54000,60,5580000,3240000,14160000
+1kW,1,Hybrid,3,Canadian Solar Canada,3,SMA Germany ,2,LFP Lithium-ion,2,80000,1,80000,141000,1,54000,1,141000,54000,275000
+2kW,2,Hybrid,3,Canadian Solar Canada,3,SMA Germany ,2,LFP Lithium-ion,2,170000,1,170000,210000,1,54000,2,210000,108000,488000
+3.5kW,3,Hybrid,3,Canadian Solar Canada,3,SMA Germany ,2,LFP Lithium-ion,2,250000,1,250000,390000,1,54000,4,390000,216000,856000
+4kW,4,Hybrid,3,Canadian Solar Canada,3,SMA Germany ,2,LFP Lithium-ion,2,410000,1,410000,555000,1,54000,4,555000,216000,1181000
+5kW,5,Hybrid,3,Canadian Solar Canada,3,SMA Germany ,2,LFP Lithium-ion,2,410000,1,410000,735000,1,54000,5,735000,270000,1415000
+7.5kW,6,Hybrid,3,Canadian Solar Canada,3,SMA Germany ,2,LFP Lithium-ion,2,890000,1,890000,870000,1,54000,7,870000,378000,2138000
+8kW,7,Hybrid,3,Canadian Solar Canada,3,SMA Germany ,2,LFP Lithium-ion,2,890000,1,890000,975000,1,54000,8,975000,432000,2297000
+10kW,8,Hybrid,3,Canadian Solar Canada,3,SMA Germany ,2,LFP Lithium-ion,2,890000,1,890000,1170000,1,54000,10,1170000,540000,2600000
+15kW,9,Hybrid,3,Canadian Solar Canada,3,SMA Germany ,2,LFP Lithium-ion,2,890000,2,1780000,870000,2,54000,15,1740000,810000,4330000
+20kW,10,Hybrid,3,Canadian Solar Canada,3,SMA Germany ,2,LFP Lithium-ion,2,890000,2,1780000,1170000,2,54000,20,2340000,1080000,5200000
+30kW,11,Hybrid,3,Canadian Solar Canada,3,SMA Germany ,2,LFP Lithium-ion,2,890000,3,2670000,1170000,3,54000,30,3510000,1620000,7800000
+40kW,12,Hybrid,3,Canadian Solar Canada,3,SMA Germany ,2,LFP Lithium-ion,2,890000,4,3560000,1170000,4,54000,40,4680000,2160000,10400000
+50kW,13,Hybrid,3,Canadian Solar Canada,3,SMA Germany ,2,LFP Lithium-ion,2,890000,5,4450000,1170000,5,54000,50,5850000,2700000,13000000
+60kW,14,Hybrid,3,Canadian Solar Canada,3,SMA Germany ,2,LFP Lithium-ion,2,890000,6,5340000,1170000,6,54000,60,7020000,3240000,15600000
+1kW,1,Hybrid,3,Canadian Solar Canada,3,CanadainSolar Canada,3,LFP Lithium-ion,2,80000,1,80000,136500,1,54000,1,136500,54000,270500
+2kW,2,Hybrid,3,Canadian Solar Canada,3,CanadainSolar Canada,3,LFP Lithium-ion,2,170000,1,170000,195000,1,54000,2,195000,108000,473000
+3.5kW,3,Hybrid,3,Canadian Solar Canada,3,CanadainSolar Canada,3,LFP Lithium-ion,2,250000,1,250000,330000,1,54000,4,330000,216000,796000
+4kW,4,Hybrid,3,Canadian Solar Canada,3,CanadainSolar Canada,3,LFP Lithium-ion,2,410000,1,410000,465000,1,54000,4,465000,216000,1091000
+5kW,5,Hybrid,3,Canadian Solar Canada,3,CanadainSolar Canada,3,LFP Lithium-ion,2,410000,1,410000,615000,1,54000,5,615000,270000,1295000
+7.5kW,6,Hybrid,3,Canadian Solar Canada,3,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,1,890000,810000,1,54000,7,810000,378000,2078000
+8kW,7,Hybrid,3,Canadian Solar Canada,3,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,1,890000,960000,1,54000,8,960000,432000,2282000
+10kW,8,Hybrid,3,Canadian Solar Canada,3,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,1,890000,1140000,1,54000,10,1140000,540000,2570000
+15kW,9,Hybrid,3,Canadian Solar Canada,3,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,2,1780000,810000,2,54000,15,1620000,810000,4210000
+20kW,10,Hybrid,3,Canadian Solar Canada,3,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,2,1780000,1140000,2,54000,20,2280000,1080000,5140000
+30kW,11,Hybrid,3,Canadian Solar Canada,3,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,3,2670000,1140000,3,54000,30,3420000,1620000,7710000
+40kW,12,Hybrid,3,Canadian Solar Canada,3,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,4,3560000,1140000,4,54000,40,4560000,2160000,10280000
+50kW,13,Hybrid,3,Canadian Solar Canada,3,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,5,4450000,1140000,5,54000,50,5700000,2700000,12850000
+60kW,14,Hybrid,3,Canadian Solar Canada,3,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,6,5340000,1140000,6,54000,60,6840000,3240000,15420000
+1kW,1,Hybrid,3,Canadian Solar Canada,3,Growatt China,4,LFP Lithium-ion,2,80000,1,80000,109500,1,54000,1,109500,54000,243500
+2kW,2,Hybrid,3,Canadian Solar Canada,3,Growatt China,4,LFP Lithium-ion,2,170000,1,170000,157500,1,54000,2,157500,108000,435500
+3.5kW,3,Hybrid,3,Canadian Solar Canada,3,Growatt China,4,LFP Lithium-ion,2,250000,1,250000,324000,1,54000,4,324000,216000,790000
+4kW,4,Hybrid,3,Canadian Solar Canada,3,Growatt China,4,LFP Lithium-ion,2,410000,1,410000,510000,1,54000,4,510000,216000,1136000
+5kW,5,Hybrid,3,Canadian Solar Canada,3,Growatt China,4,LFP Lithium-ion,2,410000,1,410000,630000,1,54000,5,630000,270000,1310000
+7.5kW,6,Hybrid,3,Canadian Solar Canada,3,Growatt China,4,LFP Lithium-ion,2,890000,1,890000,810000,1,54000,7,810000,378000,2078000
+8kW,7,Hybrid,3,Canadian Solar Canada,3,Growatt China,4,LFP Lithium-ion,2,890000,1,890000,870000,1,54000,8,870000,432000,2192000
+10kW,8,Hybrid,3,Canadian Solar Canada,3,Growatt China,4,LFP Lithium-ion,2,890000,1,890000,945000,1,54000,10,945000,540000,2375000
+15kW,9,Hybrid,3,Canadian Solar Canada,3,Growatt China,4,LFP Lithium-ion,2,890000,2,1780000,870000,2,54000,15,1740000,810000,4330000
+20kW,10,Hybrid,3,Canadian Solar Canada,3,Growatt China,4,LFP Lithium-ion,2,890000,2,1780000,945000,2,54000,20,1890000,1080000,4750000
+30kW,11,Hybrid,3,Canadian Solar Canada,3,Growatt China,4,LFP Lithium-ion,2,890000,3,2670000,945000,3,54000,30,2835000,1620000,7125000
+40kW,12,Hybrid,3,Canadian Solar Canada,3,Growatt China,4,LFP Lithium-ion,2,890000,4,3560000,945000,4,54000,40,3780000,2160000,9500000
+50kW,13,Hybrid,3,Canadian Solar Canada,3,Growatt China,4,LFP Lithium-ion,2,890000,5,4450000,945000,5,54000,50,4725000,2700000,11875000
+60kW,14,Hybrid,3,Canadian Solar Canada,3,Growatt China,4,LFP Lithium-ion,2,890000,6,5340000,945000,6,54000,60,5670000,3240000,14250000
+1kW,1,Hybrid,3,Panasonic Japan,4,Goodwee China,1,LFP Lithium-ion,2,80000,1,80000,111000,1,62000,1,111000,62000,253000
+2kW,2,Hybrid,3,Panasonic Japan,4,Goodwee China,1,LFP Lithium-ion,2,170000,1,170000,165000,1,62000,2,165000,124000,459000
+3.5kW,3,Hybrid,3,Panasonic Japan,4,Goodwee China,1,LFP Lithium-ion,2,250000,1,250000,315000,1,62000,4,315000,248000,813000
+4kW,4,Hybrid,3,Panasonic Japan,4,Goodwee China,1,LFP Lithium-ion,2,410000,1,410000,450000,1,62000,4,450000,248000,1108000
+5kW,5,Hybrid,3,Panasonic Japan,4,Goodwee China,1,LFP Lithium-ion,2,410000,1,410000,615000,1,62000,5,615000,310000,1335000
+7.5kW,6,Hybrid,3,Panasonic Japan,4,Goodwee China,1,LFP Lithium-ion,2,890000,1,890000,780000,1,62000,7,780000,434000,2104000
+8kW,7,Hybrid,3,Panasonic Japan,4,Goodwee China,1,LFP Lithium-ion,2,890000,1,890000,840000,1,62000,8,840000,496000,2226000
+10kW,8,Hybrid,3,Panasonic Japan,4,Goodwee China,1,LFP Lithium-ion,2,890000,1,890000,930000,1,62000,10,930000,620000,2440000
+15kW,9,Hybrid,3,Panasonic Japan,4,Goodwee China,1,LFP Lithium-ion,2,890000,2,1780000,780000,2,62000,15,1560000,930000,4270000
+20kW,10,Hybrid,3,Panasonic Japan,4,Goodwee China,1,LFP Lithium-ion,2,890000,2,1780000,930000,2,62000,20,1860000,1240000,4880000
+30kW,11,Hybrid,3,Panasonic Japan,4,Goodwee China,1,LFP Lithium-ion,2,890000,3,2670000,930000,3,62000,30,2790000,1860000,7320000
+40kW,12,Hybrid,3,Panasonic Japan,4,Goodwee China,1,LFP Lithium-ion,2,890000,4,3560000,930000,4,62000,40,3720000,2480000,9760000
+50kW,13,Hybrid,3,Panasonic Japan,4,Goodwee China,1,LFP Lithium-ion,2,890000,5,4450000,930000,5,62000,50,4650000,3100000,12200000
+60kW,14,Hybrid,3,Panasonic Japan,4,Goodwee China,1,LFP Lithium-ion,2,890000,6,5340000,930000,6,62000,60,5580000,3720000,14640000
+1kW,1,Hybrid,3,Panasonic Japan,4,SMA Germany ,2,LFP Lithium-ion,2,80000,1,80000,141000,1,62000,1,141000,62000,283000
+2kW,2,Hybrid,3,Panasonic Japan,4,SMA Germany ,2,LFP Lithium-ion,2,170000,1,170000,210000,1,62000,2,210000,124000,504000
+3.5kW,3,Hybrid,3,Panasonic Japan,4,SMA Germany ,2,LFP Lithium-ion,2,250000,1,250000,390000,1,62000,4,390000,248000,888000
+4kW,4,Hybrid,3,Panasonic Japan,4,SMA Germany ,2,LFP Lithium-ion,2,410000,1,410000,555000,1,62000,4,555000,248000,1213000
+5kW,5,Hybrid,3,Panasonic Japan,4,SMA Germany ,2,LFP Lithium-ion,2,410000,1,410000,735000,1,62000,5,735000,310000,1455000
+7.5kW,6,Hybrid,3,Panasonic Japan,4,SMA Germany ,2,LFP Lithium-ion,2,890000,1,890000,870000,1,62000,7,870000,434000,2194000
+8kW,7,Hybrid,3,Panasonic Japan,4,SMA Germany ,2,LFP Lithium-ion,2,890000,1,890000,975000,1,62000,8,975000,496000,2361000
+10kW,8,Hybrid,3,Panasonic Japan,4,SMA Germany ,2,LFP Lithium-ion,2,890000,1,890000,1170000,1,62000,10,1170000,620000,2680000
+15kW,9,Hybrid,3,Panasonic Japan,4,SMA Germany ,2,LFP Lithium-ion,2,890000,2,1780000,870000,2,62000,15,1740000,930000,4450000
+20kW,10,Hybrid,3,Panasonic Japan,4,SMA Germany ,2,LFP Lithium-ion,2,890000,2,1780000,1170000,2,62000,20,2340000,1240000,5360000
+30kW,11,Hybrid,3,Panasonic Japan,4,SMA Germany ,2,LFP Lithium-ion,2,890000,3,2670000,1170000,3,62000,30,3510000,1860000,8040000
+40kW,12,Hybrid,3,Panasonic Japan,4,SMA Germany ,2,LFP Lithium-ion,2,890000,4,3560000,1170000,4,62000,40,4680000,2480000,10720000
+50kW,13,Hybrid,3,Panasonic Japan,4,SMA Germany ,2,LFP Lithium-ion,2,890000,5,4450000,1170000,5,62000,50,5850000,3100000,13400000
+60kW,14,Hybrid,3,Panasonic Japan,4,SMA Germany ,2,LFP Lithium-ion,2,890000,6,5340000,1170000,6,62000,60,7020000,3720000,16080000
+1kW,1,Hybrid,3,Panasonic Japan,4,CanadainSolar Canada,3,LFP Lithium-ion,2,80000,1,80000,136500,1,62000,1,136500,62000,278500
+2kW,2,Hybrid,3,Panasonic Japan,4,CanadainSolar Canada,3,LFP Lithium-ion,2,170000,1,170000,195000,1,62000,2,195000,124000,489000
+3.5kW,3,Hybrid,3,Panasonic Japan,4,CanadainSolar Canada,3,LFP Lithium-ion,2,250000,1,250000,330000,1,62000,4,330000,248000,828000
+4kW,4,Hybrid,3,Panasonic Japan,4,CanadainSolar Canada,3,LFP Lithium-ion,2,410000,1,410000,465000,1,62000,4,465000,248000,1123000
+5kW,5,Hybrid,3,Panasonic Japan,4,CanadainSolar Canada,3,LFP Lithium-ion,2,410000,1,410000,615000,1,62000,5,615000,310000,1335000
+7.5kW,6,Hybrid,3,Panasonic Japan,4,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,1,890000,810000,1,62000,7,810000,434000,2134000
+8kW,7,Hybrid,3,Panasonic Japan,4,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,1,890000,960000,1,62000,8,960000,496000,2346000
+10kW,8,Hybrid,3,Panasonic Japan,4,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,1,890000,1140000,1,62000,10,1140000,620000,2650000
+15kW,9,Hybrid,3,Panasonic Japan,4,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,2,1780000,810000,2,62000,15,1620000,930000,4330000
+20kW,10,Hybrid,3,Panasonic Japan,4,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,2,1780000,1140000,2,62000,20,2280000,1240000,5300000
+30kW,11,Hybrid,3,Panasonic Japan,4,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,3,2670000,1140000,3,62000,30,3420000,1860000,7950000
+40kW,12,Hybrid,3,Panasonic Japan,4,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,4,3560000,1140000,4,62000,40,4560000,2480000,10600000
+50kW,13,Hybrid,3,Panasonic Japan,4,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,5,4450000,1140000,5,62000,50,5700000,3100000,13250000
+60kW,14,Hybrid,3,Panasonic Japan,4,CanadainSolar Canada,3,LFP Lithium-ion,2,890000,6,5340000,1140000,6,62000,60,6840000,3720000,15900000
+1kW,1,Hybrid,3,Panasonic Japan,4,Growatt China,4,LFP Lithium-ion,2,80000,1,80000,109500,1,62000,1,109500,62000,251500
+2kW,2,Hybrid,3,Panasonic Japan,4,Growatt China,4,LFP Lithium-ion,2,170000,1,170000,157500,1,62000,2,157500,124000,451500
+3.5kW,3,Hybrid,3,Panasonic Japan,4,Growatt China,4,LFP Lithium-ion,2,250000,1,250000,324000,1,62000,4,324000,248000,822000
+4kW,4,Hybrid,3,Panasonic Japan,4,Growatt China,4,LFP Lithium-ion,2,410000,1,410000,510000,1,62000,4,510000,248000,1168000
+5kW,5,Hybrid,3,Panasonic Japan,4,Growatt China,4,LFP Lithium-ion,2,410000,1,410000,630000,1,62000,5,630000,310000,1350000
+7.5kW,6,Hybrid,3,Panasonic Japan,4,Growatt China,4,LFP Lithium-ion,2,890000,1,890000,810000,1,62000,7,810000,434000,2134000
+8kW,7,Hybrid,3,Panasonic Japan,4,Growatt China,4,LFP Lithium-ion,2,890000,1,890000,870000,1,62000,8,870000,496000,2256000
+10kW,8,Hybrid,3,Panasonic Japan,4,Growatt China,4,LFP Lithium-ion,2,890000,1,890000,945000,1,62000,10,945000,620000,2455000
+15kW,9,Hybrid,3,Panasonic Japan,4,Growatt China,4,LFP Lithium-ion,2,890000,2,1780000,870000,2,62000,15,1740000,930000,4450000
+20kW,10,Hybrid,3,Panasonic Japan,4,Growatt China,4,LFP Lithium-ion,2,890000,2,1780000,945000,2,62000,20,1890000,1240000,4910000
+30kW,11,Hybrid,3,Panasonic Japan,4,Growatt China,4,LFP Lithium-ion,2,890000,3,2670000,945000,3,62000,30,2835000,1860000,7365000
+40kW,12,Hybrid,3,Panasonic Japan,4,Growatt China,4,LFP Lithium-ion,2,890000,4,3560000,945000,4,62000,40,3780000,2480000,9820000
+50kW,13,Hybrid,3,Panasonic Japan,4,Growatt China,4,LFP Lithium-ion,2,890000,5,4450000,945000,5,62000,50,4725000,3100000,12275000
+60kW,14,Hybrid,3,Panasonic Japan,4,Growatt China,4,LFP Lithium-ion,2,890000,6,5340000,945000,6,62000,60,5670000,3720000,14730000
+1kW,1,Hybrid,3,JA Solar China,1,Goodwee China,1,Lead Acid,3,65000,1,65000,111000,1,42000,1,111000,42000,218000
+2kW,2,Hybrid,3,JA Solar China,1,Goodwee China,1,Lead Acid,3,120000,1,120000,165000,1,42000,2,165000,84000,369000
+3.5kW,3,Hybrid,3,JA Solar China,1,Goodwee China,1,Lead Acid,3,120000,2,240000,315000,1,42000,4,315000,168000,723000
+4kW,4,Hybrid,3,JA Solar China,1,Goodwee China,1,Lead Acid,3,120000,2,240000,450000,1,42000,4,450000,168000,858000
+5kW,5,Hybrid,3,JA Solar China,1,Goodwee China,1,Lead Acid,3,120000,3,360000,615000,1,42000,5,615000,210000,1185000
+7.5kW,6,Hybrid,3,JA Solar China,1,Goodwee China,1,Lead Acid,3,120000,4,480000,780000,1,42000,7,780000,294000,1554000
+8kW,7,Hybrid,3,JA Solar China,1,Goodwee China,1,Lead Acid,3,120000,4,480000,840000,1,42000,8,840000,336000,1656000
+10kW,8,Hybrid,3,JA Solar China,1,Goodwee China,1,Lead Acid,3,120000,5,600000,930000,1,42000,10,930000,420000,1950000
+1kW,1,Hybrid,3,JA Solar China,1,SMA Germany ,2,Lead Acid,3,65000,1,65000,141000,1,42000,1,141000,42000,248000
+2kW,2,Hybrid,3,JA Solar China,1,SMA Germany ,2,Lead Acid,3,120000,1,120000,210000,1,42000,2,210000,84000,414000
+3.5kW,3,Hybrid,3,JA Solar China,1,SMA Germany ,2,Lead Acid,3,120000,2,240000,390000,1,42000,4,390000,168000,798000
+4kW,4,Hybrid,3,JA Solar China,1,SMA Germany ,2,Lead Acid,3,120000,2,240000,555000,1,42000,4,555000,168000,963000
+5kW,5,Hybrid,3,JA Solar China,1,SMA Germany ,2,Lead Acid,3,120000,3,360000,735000,1,42000,5,735000,210000,1305000
+7.5kW,6,Hybrid,3,JA Solar China,1,SMA Germany ,2,Lead Acid,3,120000,4,480000,870000,1,42000,7,870000,294000,1644000
+8kW,7,Hybrid,3,JA Solar China,1,SMA Germany ,2,Lead Acid,3,120000,4,480000,975000,1,42000,8,975000,336000,1791000
+10kW,8,Hybrid,3,JA Solar China,1,SMA Germany ,2,Lead Acid,3,120000,5,600000,1170000,1,42000,10,1170000,420000,2190000
+1kW,1,Hybrid,3,JA Solar China,1,CanadainSolar Canada,3,Lead Acid,3,65000,1,65000,136500,1,42000,1,136500,42000,243500
+2kW,2,Hybrid,3,JA Solar China,1,CanadainSolar Canada,3,Lead Acid,3,120000,1,120000,195000,1,42000,2,195000,84000,399000
+3.5kW,3,Hybrid,3,JA Solar China,1,CanadainSolar Canada,3,Lead Acid,3,120000,2,240000,330000,1,42000,4,330000,168000,738000
+4kW,4,Hybrid,3,JA Solar China,1,CanadainSolar Canada,3,Lead Acid,3,120000,2,240000,465000,1,42000,4,465000,168000,873000
+5kW,5,Hybrid,3,JA Solar China,1,CanadainSolar Canada,3,Lead Acid,3,120000,3,360000,615000,1,42000,5,615000,210000,1185000
+7.5kW,6,Hybrid,3,JA Solar China,1,CanadainSolar Canada,3,Lead Acid,3,120000,4,480000,810000,1,42000,7,810000,294000,1584000
+8kW,7,Hybrid,3,JA Solar China,1,CanadainSolar Canada,3,Lead Acid,3,120000,4,480000,960000,1,42000,8,960000,336000,1776000
+10kW,8,Hybrid,3,JA Solar China,1,CanadainSolar Canada,3,Lead Acid,3,120000,5,600000,1140000,1,42000,10,1140000,420000,2160000
+1kW,1,Hybrid,3,JA Solar China,1,Growatt China,4,Lead Acid,3,65000,1,65000,109500,1,42000,1,109500,42000,216500
+2kW,2,Hybrid,3,JA Solar China,1,Growatt China,4,Lead Acid,3,120000,1,120000,157500,1,42000,2,157500,84000,361500
+3.5kW,3,Hybrid,3,JA Solar China,1,Growatt China,4,Lead Acid,3,120000,2,240000,324000,1,42000,4,324000,168000,732000
+4kW,4,Hybrid,3,JA Solar China,1,Growatt China,4,Lead Acid,3,120000,2,240000,510000,1,42000,4,510000,168000,918000
+5kW,5,Hybrid,3,JA Solar China,1,Growatt China,4,Lead Acid,3,120000,3,360000,630000,1,42000,5,630000,210000,1200000
+7.5kW,6,Hybrid,3,JA Solar China,1,Growatt China,4,Lead Acid,3,120000,4,480000,810000,1,42000,7,810000,294000,1584000
+8kW,7,Hybrid,3,JA Solar China,1,Growatt China,4,Lead Acid,3,120000,4,480000,870000,1,42000,8,870000,336000,1686000
+10kW,8,Hybrid,3,JA Solar China,1,Growatt China,4,Lead Acid,3,120000,5,600000,945000,1,42000,10,945000,420000,1965000
+1kW,1,Hybrid,3,Jinko Solar China,2,Goodwee China,1,Lead Acid,3,65000,1,65000,111000,1,46000,1,111000,46000,222000
+2kW,2,Hybrid,3,Jinko Solar China,2,Goodwee China,1,Lead Acid,3,120000,1,120000,165000,1,46000,2,165000,92000,377000
+3.5kW,3,Hybrid,3,Jinko Solar China,2,Goodwee China,1,Lead Acid,3,120000,2,240000,315000,1,46000,4,315000,184000,739000
+4kW,4,Hybrid,3,Jinko Solar China,2,Goodwee China,1,Lead Acid,3,120000,2,240000,450000,1,46000,4,450000,184000,874000
+5kW,5,Hybrid,3,Jinko Solar China,2,Goodwee China,1,Lead Acid,3,120000,3,360000,615000,1,46000,5,615000,230000,1205000
+7.5kW,6,Hybrid,3,Jinko Solar China,2,Goodwee China,1,Lead Acid,3,120000,4,480000,780000,1,46000,7,780000,322000,1582000
+8kW,7,Hybrid,3,Jinko Solar China,2,Goodwee China,1,Lead Acid,3,120000,4,480000,840000,1,46000,8,840000,368000,1688000
+10kW,8,Hybrid,3,Jinko Solar China,2,Goodwee China,1,Lead Acid,3,120000,5,600000,930000,1,46000,10,930000,460000,1990000
+1kW,1,Hybrid,3,Jinko Solar China,2,SMA Germany ,2,Lead Acid,3,65000,1,65000,141000,1,46000,1,141000,46000,252000
+2kW,2,Hybrid,3,Jinko Solar China,2,SMA Germany ,2,Lead Acid,3,120000,1,120000,210000,1,46000,2,210000,92000,422000
+3.5kW,3,Hybrid,3,Jinko Solar China,2,SMA Germany ,2,Lead Acid,3,120000,2,240000,390000,1,46000,4,390000,184000,814000
+4kW,4,Hybrid,3,Jinko Solar China,2,SMA Germany ,2,Lead Acid,3,120000,2,240000,555000,1,46000,4,555000,184000,979000
+5kW,5,Hybrid,3,Jinko Solar China,2,SMA Germany ,2,Lead Acid,3,120000,3,360000,735000,1,46000,5,735000,230000,1325000
+7.5kW,6,Hybrid,3,Jinko Solar China,2,SMA Germany ,2,Lead Acid,3,120000,4,480000,870000,1,46000,7,870000,322000,1672000
+8kW,7,Hybrid,3,Jinko Solar China,2,SMA Germany ,2,Lead Acid,3,120000,4,480000,975000,1,46000,8,975000,368000,1823000
+10kW,8,Hybrid,3,Jinko Solar China,2,SMA Germany ,2,Lead Acid,3,120000,5,600000,1170000,1,46000,10,1170000,460000,2230000
+1kW,1,Hybrid,3,Jinko Solar China,2,CanadainSolar Canada,3,Lead Acid,3,65000,1,65000,136500,1,46000,1,136500,46000,247500
+2kW,2,Hybrid,3,Jinko Solar China,2,CanadainSolar Canada,3,Lead Acid,3,120000,1,120000,195000,1,46000,2,195000,92000,407000
+3.5kW,3,Hybrid,3,Jinko Solar China,2,CanadainSolar Canada,3,Lead Acid,3,120000,2,240000,330000,1,46000,4,330000,184000,754000
+4kW,4,Hybrid,3,Jinko Solar China,2,CanadainSolar Canada,3,Lead Acid,3,120000,2,240000,465000,1,46000,4,465000,184000,889000
+5kW,5,Hybrid,3,Jinko Solar China,2,CanadainSolar Canada,3,Lead Acid,3,120000,3,360000,615000,1,46000,5,615000,230000,1205000
+7.5kW,6,Hybrid,3,Jinko Solar China,2,CanadainSolar Canada,3,Lead Acid,3,120000,4,480000,810000,1,46000,7,810000,322000,1612000
+8kW,7,Hybrid,3,Jinko Solar China,2,CanadainSolar Canada,3,Lead Acid,3,120000,4,480000,960000,1,46000,8,960000,368000,1808000
+10kW,8,Hybrid,3,Jinko Solar China,2,CanadainSolar Canada,3,Lead Acid,3,120000,5,600000,1140000,1,46000,10,1140000,460000,2200000
+1kW,1,Hybrid,3,Jinko Solar China,2,Growatt China,4,Lead Acid,3,65000,1,65000,109500,1,46000,1,109500,46000,220500
+2kW,2,Hybrid,3,Jinko Solar China,2,Growatt China,4,Lead Acid,3,120000,1,120000,157500,1,46000,2,157500,92000,369500
+3.5kW,3,Hybrid,3,Jinko Solar China,2,Growatt China,4,Lead Acid,3,120000,2,240000,324000,1,46000,4,324000,184000,748000
+4kW,4,Hybrid,3,Jinko Solar China,2,Growatt China,4,Lead Acid,3,120000,2,240000,510000,1,46000,4,510000,184000,934000
+5kW,5,Hybrid,3,Jinko Solar China,2,Growatt China,4,Lead Acid,3,120000,3,360000,630000,1,46000,5,630000,230000,1220000
+7.5kW,6,Hybrid,3,Jinko Solar China,2,Growatt China,4,Lead Acid,3,120000,4,480000,810000,1,46000,7,810000,322000,1612000
+8kW,7,Hybrid,3,Jinko Solar China,2,Growatt China,4,Lead Acid,3,120000,4,480000,870000,1,46000,8,870000,368000,1718000
+10kW,8,Hybrid,3,Jinko Solar China,2,Growatt China,4,Lead Acid,3,120000,5,600000,945000,1,46000,10,945000,460000,2005000
+1kW,1,Hybrid,3,Canadian Solar Canada,3,Goodwee China,1,Lead Acid,3,65000,1,65000,111000,1,54000,1,111000,54000,230000
+2kW,2,Hybrid,3,Canadian Solar Canada,3,Goodwee China,1,Lead Acid,3,120000,1,120000,165000,1,54000,2,165000,108000,393000
+3.5kW,3,Hybrid,3,Canadian Solar Canada,3,Goodwee China,1,Lead Acid,3,120000,2,240000,315000,1,54000,4,315000,216000,771000
+4kW,4,Hybrid,3,Canadian Solar Canada,3,Goodwee China,1,Lead Acid,3,120000,2,240000,450000,1,54000,4,450000,216000,906000
+5kW,5,Hybrid,3,Canadian Solar Canada,3,Goodwee China,1,Lead Acid,3,120000,3,360000,615000,1,54000,5,615000,270000,1245000
+7.5kW,6,Hybrid,3,Canadian Solar Canada,3,Goodwee China,1,Lead Acid,3,120000,4,480000,780000,1,54000,7,780000,378000,1638000
+8kW,7,Hybrid,3,Canadian Solar Canada,3,Goodwee China,1,Lead Acid,3,120000,4,480000,840000,1,54000,8,840000,432000,1752000
+10kW,8,Hybrid,3,Canadian Solar Canada,3,Goodwee China,1,Lead Acid,3,120000,5,600000,930000,1,54000,10,930000,540000,2070000
+1kW,1,Hybrid,3,Canadian Solar Canada,3,SMA Germany ,2,Lead Acid,3,65000,1,65000,141000,1,54000,1,141000,54000,260000
+2kW,2,Hybrid,3,Canadian Solar Canada,3,SMA Germany ,2,Lead Acid,3,120000,1,120000,210000,1,54000,2,210000,108000,438000
+3.5kW,3,Hybrid,3,Canadian Solar Canada,3,SMA Germany ,2,Lead Acid,3,120000,2,240000,390000,1,54000,4,390000,216000,846000
+4kW,4,Hybrid,3,Canadian Solar Canada,3,SMA Germany ,2,Lead Acid,3,120000,2,240000,555000,1,54000,4,555000,216000,1011000
+5kW,5,Hybrid,3,Canadian Solar Canada,3,SMA Germany ,2,Lead Acid,3,120000,3,360000,735000,1,54000,5,735000,270000,1365000
+7.5kW,6,Hybrid,3,Canadian Solar Canada,3,SMA Germany ,2,Lead Acid,3,120000,4,480000,870000,1,54000,7,870000,378000,1728000
+8kW,7,Hybrid,3,Canadian Solar Canada,3,SMA Germany ,2,Lead Acid,3,120000,4,480000,975000,1,54000,8,975000,432000,1887000
+10kW,8,Hybrid,3,Canadian Solar Canada,3,SMA Germany ,2,Lead Acid,3,120000,5,600000,1170000,1,54000,10,1170000,540000,2310000
+1kW,1,Hybrid,3,Canadian Solar Canada,3,CanadainSolar Canada,3,Lead Acid,3,65000,1,65000,136500,1,54000,1,136500,54000,255500
+2kW,2,Hybrid,3,Canadian Solar Canada,3,CanadainSolar Canada,3,Lead Acid,3,120000,1,120000,195000,1,54000,2,195000,108000,423000
+3.5kW,3,Hybrid,3,Canadian Solar Canada,3,CanadainSolar Canada,3,Lead Acid,3,120000,2,240000,330000,1,54000,4,330000,216000,786000
+4kW,4,Hybrid,3,Canadian Solar Canada,3,CanadainSolar Canada,3,Lead Acid,3,120000,2,240000,465000,1,54000,4,465000,216000,921000
+5kW,5,Hybrid,3,Canadian Solar Canada,3,CanadainSolar Canada,3,Lead Acid,3,120000,3,360000,615000,1,54000,5,615000,270000,1245000
+7.5kW,6,Hybrid,3,Canadian Solar Canada,3,CanadainSolar Canada,3,Lead Acid,3,120000,4,480000,810000,1,54000,7,810000,378000,1668000
+8kW,7,Hybrid,3,Canadian Solar Canada,3,CanadainSolar Canada,3,Lead Acid,3,120000,4,480000,960000,1,54000,8,960000,432000,1872000
+10kW,8,Hybrid,3,Canadian Solar Canada,3,CanadainSolar Canada,3,Lead Acid,3,120000,5,600000,1140000,1,54000,10,1140000,540000,2280000
+1kW,1,Hybrid,3,Canadian Solar Canada,3,Growatt China,4,Lead Acid,3,65000,1,65000,109500,1,54000,1,109500,54000,228500
+2kW,2,Hybrid,3,Canadian Solar Canada,3,Growatt China,4,Lead Acid,3,120000,1,120000,157500,1,54000,2,157500,108000,385500
+3.5kW,3,Hybrid,3,Canadian Solar Canada,3,Growatt China,4,Lead Acid,3,120000,2,240000,324000,1,54000,4,324000,216000,780000
+4kW,4,Hybrid,3,Canadian Solar Canada,3,Growatt China,4,Lead Acid,3,120000,2,240000,510000,1,54000,4,510000,216000,966000
+5kW,5,Hybrid,3,Canadian Solar Canada,3,Growatt China,4,Lead Acid,3,120000,3,360000,630000,1,54000,5,630000,270000,1260000
+7.5kW,6,Hybrid,3,Canadian Solar Canada,3,Growatt China,4,Lead Acid,3,120000,4,480000,810000,1,54000,7,810000,378000,1668000
+8kW,7,Hybrid,3,Canadian Solar Canada,3,Growatt China,4,Lead Acid,3,120000,4,480000,870000,1,54000,8,870000,432000,1782000
+10kW,8,Hybrid,3,Canadian Solar Canada,3,Growatt China,4,Lead Acid,3,120000,5,600000,945000,1,54000,10,945000,540000,2085000
+1kW,1,Hybrid,3,Panasonic Japan,4,Goodwee China,1,Lead Acid,3,65000,1,65000,111000,1,62000,1,111000,62000,238000
+2kW,2,Hybrid,3,Panasonic Japan,4,Goodwee China,1,Lead Acid,3,120000,1,120000,165000,1,62000,2,165000,124000,409000
+3.5kW,3,Hybrid,3,Panasonic Japan,4,Goodwee China,1,Lead Acid,3,120000,2,240000,315000,1,62000,4,315000,248000,803000
+4kW,4,Hybrid,3,Panasonic Japan,4,Goodwee China,1,Lead Acid,3,120000,2,240000,450000,1,62000,4,450000,248000,938000
+5kW,5,Hybrid,3,Panasonic Japan,4,Goodwee China,1,Lead Acid,3,120000,3,360000,615000,1,62000,5,615000,310000,1285000
+7.5kW,6,Hybrid,3,Panasonic Japan,4,Goodwee China,1,Lead Acid,3,120000,4,480000,780000,1,62000,7,780000,434000,1694000
+8kW,7,Hybrid,3,Panasonic Japan,4,Goodwee China,1,Lead Acid,3,120000,4,480000,840000,1,62000,8,840000,496000,1816000
+10kW,8,Hybrid,3,Panasonic Japan,4,Goodwee China,1,Lead Acid,3,120000,5,600000,930000,1,62000,10,930000,620000,2150000
+1kW,1,Hybrid,3,Panasonic Japan,4,SMA Germany ,2,Lead Acid,3,65000,1,65000,141000,1,62000,1,141000,62000,268000
+2kW,2,Hybrid,3,Panasonic Japan,4,SMA Germany ,2,Lead Acid,3,120000,1,120000,210000,1,62000,2,210000,124000,454000
+3.5kW,3,Hybrid,3,Panasonic Japan,4,SMA Germany ,2,Lead Acid,3,120000,2,240000,390000,1,62000,4,390000,248000,878000
+4kW,4,Hybrid,3,Panasonic Japan,4,SMA Germany ,2,Lead Acid,3,120000,2,240000,555000,1,62000,4,555000,248000,1043000
+5kW,5,Hybrid,3,Panasonic Japan,4,SMA Germany ,2,Lead Acid,3,120000,3,360000,735000,1,62000,5,735000,310000,1405000
+7.5kW,6,Hybrid,3,Panasonic Japan,4,SMA Germany ,2,Lead Acid,3,120000,4,480000,870000,1,62000,7,870000,434000,1784000
+8kW,7,Hybrid,3,Panasonic Japan,4,SMA Germany ,2,Lead Acid,3,120000,4,480000,975000,1,62000,8,975000,496000,1951000
+10kW,8,Hybrid,3,Panasonic Japan,4,SMA Germany ,2,Lead Acid,3,120000,5,600000,1170000,1,62000,10,1170000,620000,2390000
+1kW,1,Hybrid,3,Panasonic Japan,4,CanadainSolar Canada,3,Lead Acid,3,65000,1,65000,136500,1,62000,1,136500,62000,263500
+2kW,2,Hybrid,3,Panasonic Japan,4,CanadainSolar Canada,3,Lead Acid,3,120000,1,120000,195000,1,62000,2,195000,124000,439000
+3.5kW,3,Hybrid,3,Panasonic Japan,4,CanadainSolar Canada,3,Lead Acid,3,120000,2,240000,330000,1,62000,4,330000,248000,818000
+4kW,4,Hybrid,3,Panasonic Japan,4,CanadainSolar Canada,3,Lead Acid,3,120000,2,240000,465000,1,62000,4,465000,248000,953000
+5kW,5,Hybrid,3,Panasonic Japan,4,CanadainSolar Canada,3,Lead Acid,3,120000,3,360000,615000,1,62000,5,615000,310000,1285000
+7.5kW,6,Hybrid,3,Panasonic Japan,4,CanadainSolar Canada,3,Lead Acid,3,120000,4,480000,810000,1,62000,7,810000,434000,1724000
+8kW,7,Hybrid,3,Panasonic Japan,4,CanadainSolar Canada,3,Lead Acid,3,120000,4,480000,960000,1,62000,8,960000,496000,1936000
+10kW,8,Hybrid,3,Panasonic Japan,4,CanadainSolar Canada,3,Lead Acid,3,120000,5,600000,1140000,1,62000,10,1140000,620000,2360000
+1kW,1,Hybrid,3,Panasonic Japan,4,Growatt China,4,Lead Acid,3,65000,1,65000,109500,1,62000,1,109500,62000,236500
+2kW,2,Hybrid,3,Panasonic Japan,4,Growatt China,4,Lead Acid,3,120000,1,120000,157500,1,62000,2,157500,124000,401500
+3.5kW,3,Hybrid,3,Panasonic Japan,4,Growatt China,4,Lead Acid,3,120000,2,240000,324000,1,62000,4,324000,248000,812000
+4kW,4,Hybrid,3,Panasonic Japan,4,Growatt China,4,Lead Acid,3,120000,2,240000,510000,1,62000,4,510000,248000,998000
+5kW,5,Hybrid,3,Panasonic Japan,4,Growatt China,4,Lead Acid,3,120000,3,360000,630000,1,62000,5,630000,310000,1300000
+7.5kW,6,Hybrid,3,Panasonic Japan,4,Growatt China,4,Lead Acid,3,120000,4,480000,810000,1,62000,7,810000,434000,1724000
+8kW,7,Hybrid,3,Panasonic Japan,4,Growatt China,4,Lead Acid,3,120000,4,480000,870000,1,62000,8,870000,496000,1846000
+10kW,8,Hybrid,3,Panasonic Japan,4,Growatt China,4,Lead Acid,3,120000,5,600000,945000,1,62000,10,945000,620000,2165000
