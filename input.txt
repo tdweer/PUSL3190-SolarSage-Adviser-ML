@@ -1,0 +1,1 @@
+curl -X POST http://localhost:5000/recommend -H "Content-Type: application/json" -d "{\"input_text\": \"0-120 On Grid JA Solar\"}"
