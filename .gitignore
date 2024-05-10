@@ -1,0 +1,10 @@
+
+.idea/.name
+.idea/flask_backend.iml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+__pycache__/app.cpython-312.pyc
+__pycache__/test.cpython-312-pytest-8.2.0.pyc
+__pycache__/test_file.cpython-312-pytest-8.2.0.pyc
